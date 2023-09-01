@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://archive.org/details/3_20200102_20200102/مستدركات اعيان الشيعة ج1 - حسن الامين
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The text has 8 volumes, but the digital version just includes the first two ones. Besides, it is better to find a higher-quality digital version. Our digital version does not have any automatic tag while the text is full of titles and biographical entries. It will take inordinate amount of time to tag this version.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-10-19
-90#VERS#ISSUES###: TEXT_QUALITY
+90#VERS#ISSUES###: TEXT_QUALITY, PRIMARY_VERSION, CLEANED_VERSION

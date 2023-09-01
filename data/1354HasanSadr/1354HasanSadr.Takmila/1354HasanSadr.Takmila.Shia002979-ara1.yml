@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://mktba.net/library.php?id=11242
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: This edition of the text has just one volume and is complete in itself. However, the text has another edition which has 6 volumes (find the PDF here: https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%AA%D9%83%D9%85%D9%84%D8%A9-%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%A7%D9%85%D9%84/). I raised a TEXT QUALITY issue for this. 2- The numbers are checked by Peter’s script.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-10-23
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

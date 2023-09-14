@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375HusaynJamal.KhawatirHimar.Hindawi29694805",
-    "BookCats": "novels :: children.stories",
-    "BookID": "29694805",
-    "BookTitle": "خواطر حمار: مذكرات فلسفية وأخلاقية على لسان حمار",
-    "AuthorID": "59726074",
-    "AuthorNam": "الكونتيسة دي سيجور",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "49575962",
-    "TranslNam": "حسين الجمل",
-    "BookRel": "1291CountessSegur.MemoireAne (TRANSL)"
-}
-
+#META# URI: 1375HusaynJamal.KhawatirHimar.Hindawi29694805
+#META# Tags: novels :: children.stories
+#META# ID: 29694805
+#META# Title: خواطر حمار: مذكرات فلسفية وأخلاقية على لسان حمار
+#META# AuthorID: 59726074
+#META# Author: الكونتيسة دي سيجور
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 49575962
+#META# Translator: حسين الجمل
+#META# Related_books: 1291CountessSegur.MemoireAne (TRANSL)
 
 #META#Header#End#
 

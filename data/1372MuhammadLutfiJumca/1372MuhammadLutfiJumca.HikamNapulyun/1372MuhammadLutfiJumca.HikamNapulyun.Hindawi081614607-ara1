@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372MuhammadLutfiJumca.HikamNapulyun.Hindawi81614607",
-    "BookCats": "literature",
-    "BookID": "81614607",
-    "BookTitle": "حكم ناپوليون",
-    "AuthorID": "72703631",
-    "AuthorNam": "محمد لطفي جمعة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372MuhammadLutfiJumca.HikamNapulyun.Hindawi81614607
+#META# Tags: literature
+#META# ID: 81614607
+#META# Title: حكم ناپوليون
+#META# AuthorID: 72703631
+#META# Author: محمد لطفي جمعة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

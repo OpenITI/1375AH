@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1361CabdAllahHusayn.MasalaHindiyya.Hindawi62481531",
-    "BookCats": "history",
-    "BookID": "62481531",
-    "BookTitle": "المسألة الهندية",
-    "AuthorID": "95373730",
-    "AuthorNam": "عبد الله حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1361CabdAllahHusayn.MasalaHindiyya.Hindawi62481531
+#META# Tags: history
+#META# ID: 62481531
+#META# Title: المسألة الهندية
+#META# AuthorID: 95373730
+#META# Author: عبد الله حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

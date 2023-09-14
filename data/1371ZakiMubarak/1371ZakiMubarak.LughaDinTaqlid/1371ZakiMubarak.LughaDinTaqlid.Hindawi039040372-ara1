@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371ZakiMubarak.LughaDinTaqlid.Hindawi39040372",
-    "BookCats": "linguistics :: history",
-    "BookID": "39040372",
-    "BookTitle": "اللغة والدين والتقاليد في حياة الاستقلال",
-    "AuthorID": "41796397",
-    "AuthorNam": "زكي مبارك",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371ZakiMubarak.LughaDinTaqlid.Hindawi39040372
+#META# Tags: linguistics :: history
+#META# ID: 39040372
+#META# Title: اللغة والدين والتقاليد في حياة الاستقلال
+#META# AuthorID: 41796397
+#META# Author: زكي مبارك
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

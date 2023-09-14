@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1365WasilaMuhammad.RuhIctidal.Hindawi64809385",
-    "BookCats": "philosophy",
-    "BookID": "64809385",
-    "BookTitle": "روح الاعتدال",
-    "AuthorID": "83096175",
-    "AuthorNam": "شارل فاجنر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "81524074",
-    "TranslNam": "وسيلة محمد",
-    "BookRel": "1336CharlesWagner (TRANSL)"
-}
-
+#META# URI: 1365WasilaMuhammad.RuhIctidal.Hindawi64809385
+#META# Tags: philosophy
+#META# ID: 64809385
+#META# Title: روح الاعتدال
+#META# AuthorID: 83096175
+#META# Author: شارل فاجنر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 81524074
+#META# Translator: وسيلة محمد
+#META# Related_books: 1336CharlesWagner (TRANSL)
 
 #META#Header#End#
 

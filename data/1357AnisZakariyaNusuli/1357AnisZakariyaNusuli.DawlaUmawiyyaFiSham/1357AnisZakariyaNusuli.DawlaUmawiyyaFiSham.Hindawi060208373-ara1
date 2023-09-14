@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1357AnisZakariyaNusuli.DawlaUmawiyyaFiSham.Hindawi60208373",
-    "BookCats": "history",
-    "BookID": "60208373",
-    "BookTitle": "الدولة الأموية في الشام",
-    "AuthorID": "95061819",
-    "AuthorNam": "أنيس زكريا النصولي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1357AnisZakariyaNusuli.DawlaUmawiyyaFiSham.Hindawi60208373
+#META# Tags: history
+#META# ID: 60208373
+#META# Title: الدولة الأموية في الشام
+#META# AuthorID: 95061819
+#META# Author: أنيس زكريا النصولي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

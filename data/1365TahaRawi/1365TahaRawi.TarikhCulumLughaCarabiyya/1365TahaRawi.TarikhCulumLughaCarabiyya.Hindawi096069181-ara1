@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1365TahaRawi.TarikhCulumLughaCarabiyya.Hindawi96069181",
-    "BookCats": "linguistics",
-    "BookID": "96069181",
-    "BookTitle": "تاريخ علوم اللغة العربية",
-    "AuthorID": "48528029",
-    "AuthorNam": "طه الراوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1365TahaRawi.TarikhCulumLughaCarabiyya.Hindawi96069181
+#META# Tags: linguistics
+#META# ID: 96069181
+#META# Title: تاريخ علوم اللغة العربية
+#META# AuthorID: 48528029
+#META# Author: طه الراوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

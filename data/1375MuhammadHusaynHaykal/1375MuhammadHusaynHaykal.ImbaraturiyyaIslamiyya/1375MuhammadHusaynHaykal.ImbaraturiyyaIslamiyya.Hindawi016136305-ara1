@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuhammadHusaynHaykal.ImbaraturiyyaIslamiyya.Hindawi16136305",
-    "BookCats": "history",
-    "BookID": "16136305",
-    "BookTitle": "الإمبراطورية الإسلامية والأماكن المقدسة",
-    "AuthorID": "73037206",
-    "AuthorNam": "محمد حسين هيكل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuhammadHusaynHaykal.ImbaraturiyyaIslamiyya.Hindawi16136305
+#META# Tags: history
+#META# ID: 16136305
+#META# Title: الإمبراطورية الإسلامية والأماكن المقدسة
+#META# AuthorID: 73037206
+#META# Author: محمد حسين هيكل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

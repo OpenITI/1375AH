@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373AhmadAmin.HarunRashid.Hindawi51719608",
-    "BookCats": "history",
-    "BookID": "51719608",
-    "BookTitle": "هارون الرشيد",
-    "AuthorID": "20953090",
-    "AuthorNam": "أحمد أمين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373AhmadAmin.HarunRashid.Hindawi51719608
+#META# Tags: history
+#META# ID: 51719608
+#META# Title: هارون الرشيد
+#META# AuthorID: 20953090
+#META# Author: أحمد أمين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373QaliniFahmi.AmirCumarTusun.Hindawi51595209",
-    "BookCats": "history :: biographies",
-    "BookID": "51595209",
-    "BookTitle": "الأمير عمر طوسون: حياته – آثاره – أعماله",
-    "AuthorID": "30284958",
-    "AuthorNam": "قليني فهمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373QaliniFahmi.AmirCumarTusun.Hindawi51595209
+#META# Tags: history :: biographies
+#META# ID: 51595209
+#META# Title: الأمير عمر طوسون: حياته – آثاره – أعماله
+#META# AuthorID: 30284958
+#META# Author: قليني فهمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

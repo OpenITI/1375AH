@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimCabdQadirMazini.DiwanMazini.Hindawi52936026",
-    "BookCats": "poetry",
-    "BookID": "52936026",
-    "BookTitle": "ديوان المازني",
-    "AuthorID": "42571753",
-    "AuthorNam": "إبراهيم عبد القادر المازني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimCabdQadirMazini.DiwanMazini.Hindawi52936026
+#META# Tags: poetry
+#META# ID: 52936026
+#META# Title: ديوان المازني
+#META# AuthorID: 42571753
+#META# Author: إبراهيم عبد القادر المازني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

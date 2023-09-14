@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1353AscadKhalilDaghir.TarikhHarbKubra.Hindawi71928390",
-    "BookCats": "history :: poetry",
-    "BookID": "71928390",
-    "BookTitle": "تاريخ الحرب الكبرى شعرًا",
-    "AuthorID": "52083092",
-    "AuthorNam": "أسعد خليل داغر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1353AscadKhalilDaghir.TarikhHarbKubra.Hindawi71928390
+#META# Tags: history :: poetry
+#META# ID: 71928390
+#META# Title: تاريخ الحرب الكبرى شعرًا
+#META# AuthorID: 52083092
+#META# Author: أسعد خليل داغر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

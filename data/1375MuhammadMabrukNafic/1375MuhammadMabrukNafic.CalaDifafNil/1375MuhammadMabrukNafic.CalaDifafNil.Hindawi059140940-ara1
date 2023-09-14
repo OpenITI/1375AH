@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuhammadMabrukNafic.CalaDifafNil.Hindawi59140940",
-    "BookCats": "history",
-    "BookID": "59140940",
-    "BookTitle": "على ضفاف النيل: في عصر الفراعنة",
-    "AuthorID": "68360924",
-    "AuthorNam": "محمد مبروك نافع",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuhammadMabrukNafic.CalaDifafNil.Hindawi59140940
+#META# Tags: history
+#META# ID: 59140940
+#META# Title: على ضفاف النيل: في عصر الفراعنة
+#META# AuthorID: 68360924
+#META# Author: محمد مبروك نافع
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

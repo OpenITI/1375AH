@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AbuIqbalSalimYacqubi.NazaratSabc.Hindawi84908524",
-    "BookCats": "poetry",
-    "BookID": "84908524",
-    "BookTitle": "النظرات السبع",
-    "AuthorID": "59407042",
-    "AuthorNam": "أبو الإقبال اليعقوبي",
-    "EditorID": "79260574",
-    "EditorNam": "توفيق أبو المحاسن اليعقوبي",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AbuIqbalSalimYacqubi.NazaratSabc.Hindawi84908524
+#META# Tags: poetry
+#META# ID: 84908524
+#META# Title: النظرات السبع
+#META# AuthorID: 59407042
+#META# Author: أبو الإقبال اليعقوبي
+#META# EditorID: 79260574
+#META# Editor: توفيق أبو المحاسن اليعقوبي
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

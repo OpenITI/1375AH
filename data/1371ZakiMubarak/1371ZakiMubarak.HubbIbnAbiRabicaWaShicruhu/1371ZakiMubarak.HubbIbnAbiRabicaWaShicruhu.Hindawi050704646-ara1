@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371ZakiMubarak.HubbIbnAbiRabicaWaShicruhu.Hindawi50704646",
-    "BookCats": "poetry",
-    "BookID": "50704646",
-    "BookTitle": "حُب ابن أبي ربيعة وشعره",
-    "AuthorID": "41796397",
-    "AuthorNam": "زكي مبارك",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371ZakiMubarak.HubbIbnAbiRabicaWaShicruhu.Hindawi50704646
+#META# Tags: poetry
+#META# ID: 50704646
+#META# Title: حُب ابن أبي ربيعة وشعره
+#META# AuthorID: 41796397
+#META# Author: زكي مبارك
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1363CabdRahmanBarquqi.SharhDiwanMutanabbi.Hindawi82959503",
-    "BookCats": "poetry :: literary.criticism",
-    "BookID": "82959503",
-    "BookTitle": "شرح ديوان المتنبي",
-    "AuthorID": "29508305",
-    "AuthorNam": "عبد الرحمن البرقوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1363CabdRahmanBarquqi.SharhDiwanMutanabbi.Hindawi82959503
+#META# Tags: poetry :: literary.criticism
+#META# ID: 82959503
+#META# Title: شرح ديوان المتنبي
+#META# AuthorID: 29508305
+#META# Author: عبد الرحمن البرقوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368CaliMahmudTaha.DiwanCaliMahmudTaha.Hindawi42647963",
-    "BookCats": "poetry",
-    "BookID": "42647963",
-    "BookTitle": "ديوان علي محمود طه",
-    "AuthorID": "18135375",
-    "AuthorNam": "علي محمود طه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368CaliMahmudTaha.DiwanCaliMahmudTaha.Hindawi42647963
+#META# Tags: poetry
+#META# ID: 42647963
+#META# Title: ديوان علي محمود طه
+#META# AuthorID: 18135375
+#META# Author: علي محمود طه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimCabdQadirMazini.MukhtaratMinQasasInjlizi.Hindawi83702539",
-    "BookCats": "literature",
-    "BookID": "83702539",
-    "BookTitle": "مختارات من القَصَص الإنجليزي",
-    "AuthorID": "42571753",
-    "AuthorNam": "إبراهيم عبد القادر المازني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimCabdQadirMazini.MukhtaratMinQasasInjlizi.Hindawi83702539
+#META# Tags: literature
+#META# ID: 83702539
+#META# Title: مختارات من القَصَص الإنجليزي
+#META# AuthorID: 42571753
+#META# Author: إبراهيم عبد القادر المازني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

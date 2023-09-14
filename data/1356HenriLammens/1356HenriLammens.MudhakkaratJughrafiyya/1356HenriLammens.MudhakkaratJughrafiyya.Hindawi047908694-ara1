@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1356HenriLammens.MudhakkaratJughrafiyya.Hindawi47908694",
-    "BookCats": "history",
-    "BookID": "47908694",
-    "BookTitle": "المذكرات الجغرافية في الأقطار السورية",
-    "AuthorID": "24136070",
-    "AuthorNam": "هنري لامنس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1356HenriLammens.MudhakkaratJughrafiyya.Hindawi47908694
+#META# Tags: history
+#META# ID: 47908694
+#META# Title: المذكرات الجغرافية في الأقطار السورية
+#META# AuthorID: 24136070
+#META# Author: هنري لامنس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

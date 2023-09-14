@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373AhmadAmin.YawmIslam.Hindawi38307359",
-    "BookCats": "history",
-    "BookID": "38307359",
-    "BookTitle": "يوم الإسلام",
-    "AuthorID": "20953090",
-    "AuthorNam": "أحمد أمين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373AhmadAmin.YawmIslam.Hindawi38307359
+#META# Tags: history
+#META# ID: 38307359
+#META# Title: يوم الإسلام
+#META# AuthorID: 20953090
+#META# Author: أحمد أمين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuhammadHusaynHaykal.FiAwqatFiragh.Hindawi91847183",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "91847183",
-    "BookTitle": "في أوقات الفراغ: مجموعة رسائل أدبية تاريخية أخلاقية فلسفية",
-    "AuthorID": "73037206",
-    "AuthorNam": "محمد حسين هيكل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuhammadHusaynHaykal.FiAwqatFiragh.Hindawi91847183
+#META# Tags: literary.criticism :: literature
+#META# ID: 91847183
+#META# Title: في أوقات الفراغ: مجموعة رسائل أدبية تاريخية أخلاقية فلسفية
+#META# AuthorID: 73037206
+#META# Author: محمد حسين هيكل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

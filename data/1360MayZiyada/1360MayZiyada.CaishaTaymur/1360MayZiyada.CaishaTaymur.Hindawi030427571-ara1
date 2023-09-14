@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360MayZiyada.CaishaTaymur.Hindawi30427571",
-    "BookCats": "literary.criticism",
-    "BookID": "30427571",
-    "BookTitle": "عائشة تيمور",
-    "AuthorID": "64620862",
-    "AuthorNam": "مي زيادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360MayZiyada.CaishaTaymur.Hindawi30427571
+#META# Tags: literary.criticism
+#META# ID: 30427571
+#META# Title: عائشة تيمور
+#META# AuthorID: 64620862
+#META# Author: مي زيادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

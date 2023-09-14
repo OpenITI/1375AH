@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368ShakibArslan.LimadhaTaakhkharaMuslimun.Hindawi69071351",
-    "BookCats": "history",
-    "BookID": "69071351",
-    "BookTitle": "لماذا تأخر المسلمون؟ ولماذا تقدم غيرهم؟",
-    "AuthorID": "79369353",
-    "AuthorNam": "شكيب أرسلان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368ShakibArslan.LimadhaTaakhkharaMuslimun.Hindawi69071351
+#META# Tags: history
+#META# ID: 69071351
+#META# Title: لماذا تأخر المسلمون؟ ولماذا تقدم غيرهم؟
+#META# AuthorID: 79369353
+#META# Author: شكيب أرسلان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

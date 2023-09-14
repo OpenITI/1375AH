@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368KhalilMutran.Cutayl.Hindawi62708494",
-    "BookCats": "literature",
-    "BookID": "62708494",
-    "BookTitle": "عُطَيل",
-    "AuthorID": "51483537",
-    "AuthorNam": "ويليام شكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71926269",
-    "TranslNam": "خليل مطران",
-    "BookRel": "1024WilliamShakespeare.Othello (TRANSL)"
-}
-
+#META# URI: 1368KhalilMutran.Cutayl.Hindawi62708494
+#META# Tags: literature
+#META# ID: 62708494
+#META# Title: عُطَيل
+#META# AuthorID: 51483537
+#META# Author: ويليام شكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71926269
+#META# Translator: خليل مطران
+#META# Related_books: 1024WilliamShakespeare.Othello (TRANSL)
 
 #META#Header#End#
 

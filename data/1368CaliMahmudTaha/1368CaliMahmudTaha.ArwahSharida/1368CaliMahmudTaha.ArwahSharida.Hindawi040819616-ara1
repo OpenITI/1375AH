@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368CaliMahmudTaha.ArwahSharida.Hindawi40819616",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "40819616",
-    "BookTitle": "أرواح شاردة",
-    "AuthorID": "18135375",
-    "AuthorNam": "علي محمود طه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368CaliMahmudTaha.ArwahSharida.Hindawi40819616
+#META# Tags: literary.criticism :: literature
+#META# ID: 40819616
+#META# Title: أرواح شاردة
+#META# AuthorID: 18135375
+#META# Author: علي محمود طه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

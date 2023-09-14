@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuhammadHusaynHaykal.QisasMisriyya.Hindawi30731627",
-    "BookCats": "novels",
-    "BookID": "30731627",
-    "BookTitle": "قصص مصرية",
-    "AuthorID": "73037206",
-    "AuthorNam": "محمد حسين هيكل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuhammadHusaynHaykal.QisasMisriyya.Hindawi30731627
+#META# Tags: novels
+#META# ID: 30731627
+#META# Title: قصص مصرية
+#META# AuthorID: 73037206
+#META# Author: محمد حسين هيكل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

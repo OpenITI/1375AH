@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.AtyafRabic.Hindawi40696038",
-    "BookCats": "poetry",
-    "BookID": "40696038",
-    "BookTitle": "أطياف الربيع",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.AtyafRabic.Hindawi40696038
+#META# Tags: poetry
+#META# ID: 40696038
+#META# Title: أطياف الربيع
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

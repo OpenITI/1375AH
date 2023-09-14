@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359TawfiqHabib.AbuJaldaWaAkhirun.Hindawi92473827",
-    "BookCats": "literature",
-    "BookID": "92473827",
-    "BookTitle": "أبو جلدة وآخرون",
-    "AuthorID": "17409427",
-    "AuthorNam": "توفيق حبيب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359TawfiqHabib.AbuJaldaWaAkhirun.Hindawi92473827
+#META# Tags: literature
+#META# ID: 92473827
+#META# Title: أبو جلدة وآخرون
+#META# AuthorID: 17409427
+#META# Author: توفيق حبيب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

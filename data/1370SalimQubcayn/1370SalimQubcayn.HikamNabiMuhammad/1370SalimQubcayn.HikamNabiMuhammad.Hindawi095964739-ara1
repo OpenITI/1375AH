@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370SalimQubcayn.HikamNabiMuhammad.Hindawi95964739",
-    "BookCats": "history",
-    "BookID": "95964739",
-    "BookTitle": "حِكَم النَّبي مُحَمَّد",
-    "AuthorID": "70462502",
-    "AuthorNam": "ليو تولستوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "47253636",
-    "TranslNam": "سليم قبعين",
-    "BookRel": "1328LeoTolstoy (TRANSL)"
-}
-
+#META# URI: 1370SalimQubcayn.HikamNabiMuhammad.Hindawi95964739
+#META# Tags: history
+#META# ID: 95964739
+#META# Title: حِكَم النَّبي مُحَمَّد
+#META# AuthorID: 70462502
+#META# Author: ليو تولستوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 47253636
+#META# Translator: سليم قبعين
+#META# Related_books: 1328LeoTolstoy (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373NiqulaHaddad.ThawraFiJahannam.Hindawi61528174",
-    "BookCats": "novels",
-    "BookID": "61528174",
-    "BookTitle": "ثورة في جهنم",
-    "AuthorID": "60483937",
-    "AuthorNam": "نقولا حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373NiqulaHaddad.ThawraFiJahannam.Hindawi61528174
+#META# Tags: novels
+#META# ID: 61528174
+#META# Title: ثورة في جهنم
+#META# AuthorID: 60483937
+#META# Author: نقولا حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

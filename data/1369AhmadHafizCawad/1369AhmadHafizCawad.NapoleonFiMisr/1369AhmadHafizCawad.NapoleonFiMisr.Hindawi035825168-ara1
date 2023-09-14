@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1369AhmadHafizCawad.NapoleonFiMisr.Hindawi35825168",
-    "BookCats": "history",
-    "BookID": "35825168",
-    "BookTitle": "نابوليون بونابارت في مصر",
-    "AuthorID": "38515157",
-    "AuthorNam": "أحمد حافظ عوض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1369AhmadHafizCawad.NapoleonFiMisr.Hindawi35825168
+#META# Tags: history
+#META# ID: 35825168
+#META# Title: نابوليون بونابارت في مصر
+#META# AuthorID: 38515157
+#META# Author: أحمد حافظ عوض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

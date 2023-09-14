@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370SalimQabcin.TarikhAlRumanuf.Hindawi84857157",
-    "BookCats": "history",
-    "BookID": "84857157",
-    "BookTitle": "تاريخ آل رومانوف",
-    "AuthorID": "47253636",
-    "AuthorNam": "سليم قبعين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370SalimQabcin.TarikhAlRumanuf.Hindawi84857157
+#META# Tags: history
+#META# ID: 84857157
+#META# Title: تاريخ آل رومانوف
+#META# AuthorID: 47253636
+#META# Author: سليم قبعين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373NiqulaHaddad.DawlatSayyidatFiMamlakatNisa.Hindawi79591635",
-    "BookCats": "novels",
-    "BookID": "79591635",
-    "BookTitle": "دولة سيدات في مملكة نساء",
-    "AuthorID": "60483937",
-    "AuthorNam": "نقولا حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373NiqulaHaddad.DawlatSayyidatFiMamlakatNisa.Hindawi79591635
+#META# Tags: novels
+#META# ID: 79591635
+#META# Title: دولة سيدات في مملكة نساء
+#META# AuthorID: 60483937
+#META# Author: نقولا حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

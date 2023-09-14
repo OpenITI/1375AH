@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360MayZiyada.WardaYaziji.Hindawi46979259",
-    "BookCats": "literary.criticism",
-    "BookID": "46979259",
-    "BookTitle": "وَرْدَةُ اليَازجِي",
-    "AuthorID": "64620862",
-    "AuthorNam": "مي زيادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360MayZiyada.WardaYaziji.Hindawi46979259
+#META# Tags: literary.criticism
+#META# ID: 46979259
+#META# Title: وَرْدَةُ اليَازجِي
+#META# AuthorID: 64620862
+#META# Author: مي زيادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

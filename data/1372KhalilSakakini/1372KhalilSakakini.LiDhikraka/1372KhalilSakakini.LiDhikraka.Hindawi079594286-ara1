@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372KhalilSakakini.LiDhikraka.Hindawi79594286",
-    "BookCats": "literature",
-    "BookID": "79594286",
-    "BookTitle": "لذكراك",
-    "AuthorID": "59792931",
-    "AuthorNam": "خليل السكاكيني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372KhalilSakakini.LiDhikraka.Hindawi79594286
+#META# Tags: literature
+#META# ID: 79594286
+#META# Title: لذكراك
+#META# AuthorID: 59792931
+#META# Author: خليل السكاكيني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

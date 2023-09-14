@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1364MacrufRusafi.Diwan.Hindawi51703160",
-    "BookCats": "poetry",
-    "BookID": "51703160",
-    "BookTitle": "ديوان معروف الرَّصافي",
-    "AuthorID": "26848490",
-    "AuthorNam": "معروف الرَّصافي",
-    "EditorID": "61719469",
-    "EditorNam": "مصطفى الغلاييني",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1364MacrufRusafi.Diwan.Hindawi51703160
+#META# Tags: poetry
+#META# ID: 51703160
+#META# Title: ديوان معروف الرَّصافي
+#META# AuthorID: 26848490
+#META# Author: معروف الرَّصافي
+#META# EditorID: 61719469
+#META# Editor: مصطفى الغلاييني
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

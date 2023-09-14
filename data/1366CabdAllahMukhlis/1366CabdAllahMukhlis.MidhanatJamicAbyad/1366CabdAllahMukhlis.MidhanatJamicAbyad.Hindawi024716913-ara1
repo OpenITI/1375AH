@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366CabdAllahMukhlis.MidhanatJamicAbyad.Hindawi24716913",
-    "BookCats": "history",
-    "BookID": "24716913",
-    "BookTitle": "مئذنة الجامع الأبيض في الرملة",
-    "AuthorID": "94270904",
-    "AuthorNam": "عبد الله مخلص",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366CabdAllahMukhlis.MidhanatJamicAbyad.Hindawi24716913
+#META# Tags: history
+#META# ID: 24716913
+#META# Title: مئذنة الجامع الأبيض في الرملة
+#META# AuthorID: 94270904
+#META# Author: عبد الله مخلص
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

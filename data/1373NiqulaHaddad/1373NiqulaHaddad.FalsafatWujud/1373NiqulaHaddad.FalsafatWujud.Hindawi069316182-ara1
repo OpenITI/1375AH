@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373NiqulaHaddad.FalsafatWujud.Hindawi69316182",
-    "BookCats": "philosophy",
-    "BookID": "69316182",
-    "BookTitle": "فلسفة الوجود",
-    "AuthorID": "60483937",
-    "AuthorNam": "نقولا حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373NiqulaHaddad.FalsafatWujud.Hindawi69316182
+#META# Tags: philosophy
+#META# ID: 69316182
+#META# Title: فلسفة الوجود
+#META# AuthorID: 60483937
+#META# Author: نقولا حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373NiqulaHaddad.HukarMuhtalAmrikiCaziz.Hindawi59290207",
-    "BookCats": "novels",
-    "BookID": "59290207",
-    "BookTitle": "هوكر المحتال الأمريكي العظيم: شخصان في واحد",
-    "AuthorID": "60483937",
-    "AuthorNam": "نقولا حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373NiqulaHaddad.HukarMuhtalAmrikiCaziz.Hindawi59290207
+#META# Tags: novels
+#META# ID: 59290207
+#META# Title: هوكر المحتال الأمريكي العظيم: شخصان في واحد
+#META# AuthorID: 60483937
+#META# Author: نقولا حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

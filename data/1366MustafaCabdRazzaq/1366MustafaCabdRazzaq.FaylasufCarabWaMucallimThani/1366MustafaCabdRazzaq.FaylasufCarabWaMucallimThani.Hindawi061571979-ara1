@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366MustafaCabdRazzaq.FaylasufCarabWaMucallimThani.Hindawi61571979",
-    "BookCats": "philosophy",
-    "BookID": "61571979",
-    "BookTitle": "فيلسوف العرب والمعلم الثاني",
-    "AuthorID": "58628571",
-    "AuthorNam": "مصطفى عبد الرازق",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366MustafaCabdRazzaq.FaylasufCarabWaMucallimThani.Hindawi61571979
+#META# Tags: philosophy
+#META# ID: 61571979
+#META# Title: فيلسوف العرب والمعلم الثاني
+#META# AuthorID: 58628571
+#META# Author: مصطفى عبد الرازق
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

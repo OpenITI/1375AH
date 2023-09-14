@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1352AhmadZaki.HadaraIslamiyya.Hindawi14602927",
-    "BookCats": "history",
-    "BookID": "14602927",
-    "BookTitle": "الحضارة الإسلامية",
-    "AuthorID": "14937183",
-    "AuthorNam": "أحمد زكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1352AhmadZaki.HadaraIslamiyya.Hindawi14602927
+#META# Tags: history
+#META# ID: 14602927
+#META# Title: الحضارة الإسلامية
+#META# AuthorID: 14937183
+#META# Author: أحمد زكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

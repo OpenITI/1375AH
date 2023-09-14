@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuhammadHusaynHaykal.HayatMuhammad.Hindawi20604026",
-    "BookCats": "history",
-    "BookID": "20604026",
-    "BookTitle": "حياة محمد",
-    "AuthorID": "73037206",
-    "AuthorNam": "محمد حسين هيكل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuhammadHusaynHaykal.HayatMuhammad.Hindawi20604026
+#META# Tags: history
+#META# ID: 20604026
+#META# Title: حياة محمد
+#META# AuthorID: 73037206
+#META# Author: محمد حسين هيكل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

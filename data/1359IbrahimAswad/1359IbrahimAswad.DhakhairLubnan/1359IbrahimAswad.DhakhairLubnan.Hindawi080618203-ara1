@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359IbrahimAswad.DhakhairLubnan.Hindawi80618203",
-    "BookCats": "history",
-    "BookID": "80618203",
-    "BookTitle": "ذخائر لبنان",
-    "AuthorID": "86157427",
-    "AuthorNam": "إبراهيم الأسود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359IbrahimAswad.DhakhairLubnan.Hindawi80618203
+#META# Tags: history
+#META# ID: 80618203
+#META# Title: ذخائر لبنان
+#META# AuthorID: 86157427
+#META# Author: إبراهيم الأسود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

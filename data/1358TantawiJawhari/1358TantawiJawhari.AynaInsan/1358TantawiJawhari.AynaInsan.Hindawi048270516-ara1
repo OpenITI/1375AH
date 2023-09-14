@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1358TantawiJawhari.AynaInsan.Hindawi48270516",
-    "BookCats": "philosophy",
-    "BookID": "48270516",
-    "BookTitle": "أين الإنسان",
-    "AuthorID": "18082969",
-    "AuthorNam": "طنطاوي جوهري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1358TantawiJawhari.AynaInsan.Hindawi48270516
+#META# Tags: philosophy
+#META# ID: 48270516
+#META# Title: أين الإنسان
+#META# AuthorID: 18082969
+#META# Author: طنطاوي جوهري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

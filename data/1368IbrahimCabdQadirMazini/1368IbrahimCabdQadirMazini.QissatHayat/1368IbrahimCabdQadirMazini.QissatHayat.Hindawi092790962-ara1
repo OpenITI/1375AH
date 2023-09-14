@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimCabdQadirMazini.QissatHayat.Hindawi92790962",
-    "BookCats": "biographies",
-    "BookID": "92790962",
-    "BookTitle": "قصة حياة",
-    "AuthorID": "42571753",
-    "AuthorNam": "إبراهيم عبد القادر المازني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimCabdQadirMazini.QissatHayat.Hindawi92790962
+#META# Tags: biographies
+#META# ID: 92790962
+#META# Title: قصة حياة
+#META# AuthorID: 42571753
+#META# Author: إبراهيم عبد القادر المازني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

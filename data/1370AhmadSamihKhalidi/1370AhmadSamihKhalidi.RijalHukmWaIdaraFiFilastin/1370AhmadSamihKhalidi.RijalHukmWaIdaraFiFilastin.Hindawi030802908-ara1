@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370AhmadSamihKhalidi.RijalHukmWaIdaraFiFilastin.Hindawi30802908",
-    "BookCats": "history",
-    "BookID": "30802908",
-    "BookTitle": "رجال الحكم والإدارة في فلسطين: من عهد الخلفاء الراشدين إلى القرن الرابع عشر الهجري",
-    "AuthorID": "20836370",
-    "AuthorNam": "أحمد سامح الخالدي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370AhmadSamihKhalidi.RijalHukmWaIdaraFiFilastin.Hindawi30802908
+#META# Tags: history
+#META# ID: 30802908
+#META# Title: رجال الحكم والإدارة في فلسطين: من عهد الخلفاء الراشدين إلى القرن الرابع عشر الهجري
+#META# AuthorID: 20836370
+#META# Author: أحمد سامح الخالدي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

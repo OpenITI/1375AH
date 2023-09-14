@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1363CumarTusun.ButulatUrtaSudaniyyaMisriyya.Hindawi16820202",
-    "BookCats": "history",
-    "BookID": "16820202",
-    "BookTitle": "بطولة الأورطة السودانية المصرية في حرب المكسيك",
-    "AuthorID": "48305702",
-    "AuthorNam": "عمر طوسون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1363CumarTusun.ButulatUrtaSudaniyyaMisriyya.Hindawi16820202
+#META# Tags: history
+#META# ID: 16820202
+#META# Title: بطولة الأورطة السودانية المصرية في حرب المكسيك
+#META# AuthorID: 48305702
+#META# Author: عمر طوسون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AhmadShawqi.AmiratAndalus.Hindawi20385706",
-    "BookCats": "plays",
-    "BookID": "20385706",
-    "BookTitle": "أميـرة الأندلـس",
-    "AuthorID": "37094079",
-    "AuthorNam": "أحمد شوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AhmadShawqi.AmiratAndalus.Hindawi20385706
+#META# Tags: plays
+#META# ID: 20385706
+#META# Title: أميـرة الأندلـس
+#META# AuthorID: 37094079
+#META# Author: أحمد شوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

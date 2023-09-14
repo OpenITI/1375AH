@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1355MustafaSadiqRafici.HadithQamar.Hindawi62581958",
-    "BookCats": "literature",
-    "BookID": "62581958",
-    "BookTitle": "حديث القمر",
-    "AuthorID": "53130362",
-    "AuthorNam": "مصطفى صادق الرافعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1355MustafaSadiqRafici.HadithQamar.Hindawi62581958
+#META# Tags: literature
+#META# ID: 62581958
+#META# Title: حديث القمر
+#META# AuthorID: 53130362
+#META# Author: مصطفى صادق الرافعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

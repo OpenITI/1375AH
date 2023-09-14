@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1355IskandaraQustantinKhuri.AmanatHubb.Hindawi52617470",
-    "BookCats": "plays :: literary.criticism",
-    "BookID": "52617470",
-    "BookTitle": "أمانة الحب",
-    "AuthorID": "83617395",
-    "AuthorNam": "إسكندرة قسطنطين الخوري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1355IskandaraQustantinKhuri.AmanatHubb.Hindawi52617470
+#META# Tags: plays :: literary.criticism
+#META# ID: 52617470
+#META# Title: أمانة الحب
+#META# AuthorID: 83617395
+#META# Author: إسكندرة قسطنطين الخوري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

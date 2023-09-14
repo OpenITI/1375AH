@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368ShakibArslan.TarikhGhazawatCarab.Hindawi59024715",
-    "BookCats": "history",
-    "BookID": "59024715",
-    "BookTitle": "تاريخ غزوات العرب في فرنسا وسويسرا وإيطاليا وجزائر البحر المتوسط",
-    "AuthorID": "79369353",
-    "AuthorNam": "شكيب أرسلان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368ShakibArslan.TarikhGhazawatCarab.Hindawi59024715
+#META# Tags: history
+#META# ID: 59024715
+#META# Title: تاريخ غزوات العرب في فرنسا وسويسرا وإيطاليا وجزائر البحر المتوسط
+#META# AuthorID: 79369353
+#META# Author: شكيب أرسلان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

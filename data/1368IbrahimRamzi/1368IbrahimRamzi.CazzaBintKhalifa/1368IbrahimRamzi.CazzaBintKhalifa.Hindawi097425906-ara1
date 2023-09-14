@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.CazzaBintKhalifa.Hindawi97425906",
-    "BookCats": "plays",
-    "BookID": "97425906",
-    "BookTitle": "عزة بنت الخليفة: رواية تمثيلية ذات فصل واحد",
-    "AuthorID": "27535259",
-    "AuthorNam": "إبراهيم رمزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimRamzi.CazzaBintKhalifa.Hindawi97425906
+#META# Tags: plays
+#META# ID: 97425906
+#META# Title: عزة بنت الخليفة: رواية تمثيلية ذات فصل واحد
+#META# AuthorID: 27535259
+#META# Author: إبراهيم رمزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

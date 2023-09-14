@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362AminArslan.AsrarQusur.Hindawi83515363",
-    "BookCats": "novels",
-    "BookID": "83515363",
-    "BookTitle": "أسرار القصور: سياسية، تاريخية، غرامية، أدبية",
-    "AuthorID": "60697529",
-    "AuthorNam": "أمين أرسلان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362AminArslan.AsrarQusur.Hindawi83515363
+#META# Tags: novels
+#META# ID: 83515363
+#META# Title: أسرار القصور: سياسية، تاريخية، غرامية، أدبية
+#META# AuthorID: 60697529
+#META# Author: أمين أرسلان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

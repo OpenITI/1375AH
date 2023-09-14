@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368CaliJarim.DiwanCaliJarim.Hindawi48252913",
-    "BookCats": "poetry",
-    "BookID": "48252913",
-    "BookTitle": "ديوان علي الجارم",
-    "AuthorID": "92581481",
-    "AuthorNam": "علي الجارم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368CaliJarim.DiwanCaliJarim.Hindawi48252913
+#META# Tags: poetry
+#META# ID: 48252913
+#META# Title: ديوان علي الجارم
+#META# AuthorID: 92581481
+#META# Author: علي الجارم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

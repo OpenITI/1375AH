@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1356ShukriKhuri.TuhfaCammiyya.Hindawi42486196",
-    "BookCats": "novels",
-    "BookID": "42486196",
-    "BookTitle": "التحفة العامية في قصة فنيانوس",
-    "AuthorID": "40482505",
-    "AuthorNam": "شكري الخوري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1356ShukriKhuri.TuhfaCammiyya.Hindawi42486196
+#META# Tags: novels
+#META# ID: 42486196
+#META# Title: التحفة العامية في قصة فنيانوس
+#META# AuthorID: 40482505
+#META# Author: شكري الخوري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

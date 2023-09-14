@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362MuhammadKamilHajjaj.MusiqaSharqiyya.Hindawi41583092",
-    "BookCats": "arts",
-    "BookID": "41583092",
-    "BookTitle": "الموسيقى الشرقية: ماضيها، حاضرها، نموها في المستقبل",
-    "AuthorID": "51425862",
-    "AuthorNam": "محمد كامل حجاج",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362MuhammadKamilHajjaj.MusiqaSharqiyya.Hindawi41583092
+#META# Tags: arts
+#META# ID: 41583092
+#META# Title: الموسيقى الشرقية: ماضيها، حاضرها، نموها في المستقبل
+#META# AuthorID: 51425862
+#META# Author: محمد كامل حجاج
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

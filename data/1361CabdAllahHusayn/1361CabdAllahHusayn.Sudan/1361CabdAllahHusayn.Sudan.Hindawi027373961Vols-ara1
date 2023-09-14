@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1361CabdAllahHusayn.Sudan1.Hindawi27373961",
-    "BookCats": "history",
-    "BookID": "27373961",
-    "BookTitle": "السودان من التاريخ القديم إلى رحلة البعثة المصرية (الجزء الثاني)",
-    "AuthorID": "95373730",
-    "AuthorNam": "عبد الله حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1361CabdAllahHusayn.Sudan1.Hindawi27373961
+#META# Tags: history
+#META# ID: 27373961
+#META# Title: السودان من التاريخ القديم إلى رحلة البعثة المصرية (الجزء الثاني)
+#META# AuthorID: 95373730
+#META# Author: عبد الله حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

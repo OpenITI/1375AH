@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AhmadShawqi.Bakhila.Hindawi86085746",
-    "BookCats": "plays",
-    "BookID": "86085746",
-    "BookTitle": "البخيلة",
-    "AuthorID": "37094079",
-    "AuthorNam": "أحمد شوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AhmadShawqi.Bakhila.Hindawi86085746
+#META# Tags: plays
+#META# ID: 86085746
+#META# Title: البخيلة
+#META# AuthorID: 37094079
+#META# Author: أحمد شوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360MayZiyada.SawanihFatat.Hindawi51305974",
-    "BookCats": "literature",
-    "BookID": "51305974",
-    "BookTitle": "سوانح فتاة",
-    "AuthorID": "64620862",
-    "AuthorNam": "مي زيادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360MayZiyada.SawanihFatat.Hindawi51305974
+#META# Tags: literature
+#META# ID: 51305974
+#META# Title: سوانح فتاة
+#META# AuthorID: 64620862
+#META# Author: مي زيادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

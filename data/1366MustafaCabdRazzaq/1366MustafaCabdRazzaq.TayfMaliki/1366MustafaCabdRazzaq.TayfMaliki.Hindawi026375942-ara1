@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366MustafaCabdRazzaq.TayfMaliki.Hindawi26375942",
-    "BookCats": "literature",
-    "BookID": "26375942",
-    "BookTitle": "طيف ملكي",
-    "AuthorID": "47960284",
-    "AuthorNam": "قدرية حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "58628571",
-    "TranslNam": "مصطفى عبد الرازق",
-    "BookRel": "1374QadriyyaHusayn (TRANSL)"
-}
-
+#META# URI: 1366MustafaCabdRazzaq.TayfMaliki.Hindawi26375942
+#META# Tags: literature
+#META# ID: 26375942
+#META# Title: طيف ملكي
+#META# AuthorID: 47960284
+#META# Author: قدرية حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 58628571
+#META# Translator: مصطفى عبد الرازق
+#META# Related_books: 1374QadriyyaHusayn (TRANSL)
 
 #META#Header#End#
 

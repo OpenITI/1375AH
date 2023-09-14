@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.Shucla.Hindawi90402814",
-    "BookCats": "poetry",
-    "BookID": "90402814",
-    "BookTitle": "الشعلة",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.Shucla.Hindawi90402814
+#META# Tags: poetry
+#META# ID: 90402814
+#META# Title: الشعلة
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

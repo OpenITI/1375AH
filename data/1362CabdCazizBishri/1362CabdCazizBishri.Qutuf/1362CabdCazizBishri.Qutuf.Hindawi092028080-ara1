@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362CabdCazizBishri.Qutuf.Hindawi92028080",
-    "BookCats": "literature",
-    "BookID": "92028080",
-    "BookTitle": "قطوف البشري",
-    "AuthorID": "82863939",
-    "AuthorNam": "عبد العزيز البشري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362CabdCazizBishri.Qutuf.Hindawi92028080
+#META# Tags: literature
+#META# ID: 92028080
+#META# Title: قطوف البشري
+#META# AuthorID: 82863939
+#META# Author: عبد العزيز البشري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368KhalilMutran.HilmAghustus.Hindawi36024294",
-    "BookCats": "literature",
-    "BookID": "36024294",
-    "BookTitle": "حلم أغسطس",
-    "AuthorID": "61603935",
-    "AuthorNam": "بيار كورناي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71926269",
-    "TranslNam": "خليل مطران",
-    "BookRel": "1095PierreCorneille.ClemenceDeAuguste (TRANSL)"
-}
-
+#META# URI: 1368KhalilMutran.HilmAghustus.Hindawi36024294
+#META# Tags: literature
+#META# ID: 36024294
+#META# Title: حلم أغسطس
+#META# AuthorID: 61603935
+#META# Author: بيار كورناي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71926269
+#META# Translator: خليل مطران
+#META# Related_books: 1095PierreCorneille.ClemenceDeAuguste (TRANSL)
 
 #META#Header#End#
 

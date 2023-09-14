@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368CaliJarim.SahmMasmum.Hindawi69204269",
-    "BookCats": "novels",
-    "BookID": "69204269",
-    "BookTitle": "السهم المسموم",
-    "AuthorID": "92581481",
-    "AuthorNam": "علي الجارم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368CaliJarim.SahmMasmum.Hindawi69204269
+#META# Tags: novels
+#META# ID: 69204269
+#META# Title: السهم المسموم
+#META# AuthorID: 92581481
+#META# Author: علي الجارم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

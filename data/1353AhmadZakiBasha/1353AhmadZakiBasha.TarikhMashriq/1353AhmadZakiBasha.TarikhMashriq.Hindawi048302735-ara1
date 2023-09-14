@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1353AhmadZakiBasha.TarikhMashriq.Hindawi48302735",
-    "BookCats": "history",
-    "BookID": "48302735",
-    "BookTitle": "تاريخ المشرق",
-    "AuthorID": "37305913",
-    "AuthorNam": "غاستون ماسبيرو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "14937183",
-    "TranslNam": "أحمد زكي",
-    "BookRel": "1334GustaveMaspero.HistoireOrient (TRANSL)"
-}
-
+#META# URI: 1353AhmadZakiBasha.TarikhMashriq.Hindawi48302735
+#META# Tags: history
+#META# ID: 48302735
+#META# Title: تاريخ المشرق
+#META# AuthorID: 37305913
+#META# Author: غاستون ماسبيرو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 14937183
+#META# Translator: أحمد زكي
+#META# Related_books: 1334GustaveMaspero.HistoireOrient (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1364NajibHubayqa.QurratCain.Hindawi63836908",
-    "BookCats": "novels",
-    "BookID": "63836908",
-    "BookTitle": "قرة العين في خريدة لبنان",
-    "AuthorID": "24136070",
-    "AuthorNam": "هنري لامنس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "72607026",
-    "TranslNam": "نجيب حبيقة",
-    "BookRel": "1356HenriLammens (TRANSL)"
-}
-
+#META# URI: 1364NajibHubayqa.QurratCain.Hindawi63836908
+#META# Tags: novels
+#META# ID: 63836908
+#META# Title: قرة العين في خريدة لبنان
+#META# AuthorID: 24136070
+#META# Author: هنري لامنس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 72607026
+#META# Translator: نجيب حبيقة
+#META# Related_books: 1356HenriLammens (TRANSL)
 
 #META#Header#End#
 

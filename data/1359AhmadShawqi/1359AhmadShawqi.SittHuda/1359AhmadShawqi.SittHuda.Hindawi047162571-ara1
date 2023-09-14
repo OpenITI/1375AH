@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AhmadShawqi.SittHuda.Hindawi47162571",
-    "BookCats": "plays",
-    "BookID": "47162571",
-    "BookTitle": "الست هدى",
-    "AuthorID": "37094079",
-    "AuthorNam": "أحمد شوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AhmadShawqi.SittHuda.Hindawi47162571
+#META# Tags: plays
+#META# ID: 47162571
+#META# Title: الست هدى
+#META# AuthorID: 37094079
+#META# Author: أحمد شوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

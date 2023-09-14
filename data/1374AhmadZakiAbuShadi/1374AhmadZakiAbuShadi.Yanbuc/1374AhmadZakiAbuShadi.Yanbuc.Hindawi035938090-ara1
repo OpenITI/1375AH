@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.Yanbuc.Hindawi35938090",
-    "BookCats": "poetry",
-    "BookID": "35938090",
-    "BookTitle": "الينبوع",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.Yanbuc.Hindawi35938090
+#META# Tags: poetry
+#META# ID: 35938090
+#META# Title: الينبوع
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

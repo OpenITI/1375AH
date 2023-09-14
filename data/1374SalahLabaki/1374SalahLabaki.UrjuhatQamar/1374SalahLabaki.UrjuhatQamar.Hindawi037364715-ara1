@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374SalahLabaki.UrjuhatQamar.Hindawi37364715",
-    "BookCats": "poetry",
-    "BookID": "37364715",
-    "BookTitle": "أرجوحة القمر",
-    "AuthorID": "97074095",
-    "AuthorNam": "صلاح لبكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374SalahLabaki.UrjuhatQamar.Hindawi37364715
+#META# Tags: poetry
+#META# ID: 37364715
+#META# Title: أرجوحة القمر
+#META# AuthorID: 97074095
+#META# Author: صلاح لبكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

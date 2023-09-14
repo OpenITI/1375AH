@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373AhmadAmin.SaclawaWaFutuwwaFiIslam.Hindawi52963131",
-    "BookCats": "literary.criticism :: history",
-    "BookID": "52963131",
-    "BookTitle": "الصعلكة والفتوة في الإسلام",
-    "AuthorID": "20953090",
-    "AuthorNam": "أحمد أمين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373AhmadAmin.SaclawaWaFutuwwaFiIslam.Hindawi52963131
+#META# Tags: literary.criticism :: history
+#META# ID: 52963131
+#META# Title: الصعلكة والفتوة في الإسلام
+#META# AuthorID: 20953090
+#META# Author: أحمد أمين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

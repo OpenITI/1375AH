@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1355MustafaSadiqRafici.KitabMasakin.Hindawi80383953",
-    "BookCats": "novels",
-    "BookID": "80383953",
-    "BookTitle": "كتاب المساكين",
-    "AuthorID": "53130362",
-    "AuthorNam": "مصطفى صادق الرافعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1355MustafaSadiqRafici.KitabMasakin.Hindawi80383953
+#META# Tags: novels
+#META# ID: 80383953
+#META# Title: كتاب المساكين
+#META# AuthorID: 53130362
+#META# Author: مصطفى صادق الرافعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

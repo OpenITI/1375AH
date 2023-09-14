@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1363MahmudCakush.TarikhWaWasfJamicTuluni.Hindawi49202975",
-    "BookCats": "history",
-    "BookID": "49202975",
-    "BookTitle": "تاريخ ووصف الجامع الطولوني",
-    "AuthorID": "40636029",
-    "AuthorNam": "محمود عكوش",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1363MahmudCakush.TarikhWaWasfJamicTuluni.Hindawi49202975
+#META# Tags: history
+#META# ID: 49202975
+#META# Title: تاريخ ووصف الجامع الطولوني
+#META# AuthorID: 40636029
+#META# Author: محمود عكوش
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

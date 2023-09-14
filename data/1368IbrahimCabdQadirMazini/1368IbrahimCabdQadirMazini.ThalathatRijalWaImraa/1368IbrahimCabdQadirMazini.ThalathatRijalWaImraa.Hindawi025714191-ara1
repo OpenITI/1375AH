@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimCabdQadirMazini.ThalathatRijalWaImraa.Hindawi25714191",
-    "BookCats": "novels",
-    "BookID": "25714191",
-    "BookTitle": "ثلاثة رجال وامرأة",
-    "AuthorID": "42571753",
-    "AuthorNam": "إبراهيم عبد القادر المازني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimCabdQadirMazini.ThalathatRijalWaImraa.Hindawi25714191
+#META# Tags: novels
+#META# ID: 25714191
+#META# Title: ثلاثة رجال وامرأة
+#META# AuthorID: 42571753
+#META# Author: إبراهيم عبد القادر المازني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

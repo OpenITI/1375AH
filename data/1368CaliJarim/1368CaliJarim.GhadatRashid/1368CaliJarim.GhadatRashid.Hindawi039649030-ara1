@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368CaliJarim.GhadatRashid.Hindawi39649030",
-    "BookCats": "novels",
-    "BookID": "39649030",
-    "BookTitle": "غادة رشيد",
-    "AuthorID": "92581481",
-    "AuthorNam": "علي الجارم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368CaliJarim.GhadatRashid.Hindawi39649030
+#META# Tags: novels
+#META# ID: 39649030
+#META# Title: غادة رشيد
+#META# AuthorID: 92581481
+#META# Author: علي الجارم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

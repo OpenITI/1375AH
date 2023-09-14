@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1353AscadKhalilDaghir.TadhkiratKatib.Hindawi83916853",
-    "BookCats": "linguistics",
-    "BookID": "83916853",
-    "BookTitle": "تَذْكِرَةُ الكاتب",
-    "AuthorID": "52083092",
-    "AuthorNam": "أسعد خليل داغر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1353AscadKhalilDaghir.TadhkiratKatib.Hindawi83916853
+#META# Tags: linguistics
+#META# ID: 83916853
+#META# Title: تَذْكِرَةُ الكاتب
+#META# AuthorID: 52083092
+#META# Author: أسعد خليل داغر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

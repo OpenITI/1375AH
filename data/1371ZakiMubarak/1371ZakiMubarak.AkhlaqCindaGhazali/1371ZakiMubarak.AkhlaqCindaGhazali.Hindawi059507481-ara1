@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371ZakiMubarak.AkhlaqCindaGhazali.Hindawi59507481",
-    "BookCats": "literary.criticism",
-    "BookID": "59507481",
-    "BookTitle": "الأخلاق عند الغزالي",
-    "AuthorID": "41796397",
-    "AuthorNam": "زكي مبارك",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371ZakiMubarak.AkhlaqCindaGhazali.Hindawi59507481
+#META# Tags: literary.criticism
+#META# ID: 59507481
+#META# Title: الأخلاق عند الغزالي
+#META# AuthorID: 41796397
+#META# Author: زكي مبارك
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

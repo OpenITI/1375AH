@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371LabibaMadiHashim.GhadaInjliziyya.Hindawi81936309",
-    "BookCats": "novels",
-    "BookID": "81936309",
-    "BookTitle": "الغادة الإنجليزية",
-    "AuthorID": "53630386",
-    "AuthorNam": "لبيبة ماضي هاشم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371LabibaMadiHashim.GhadaInjliziyya.Hindawi81936309
+#META# Tags: novels
+#META# ID: 81936309
+#META# Title: الغادة الإنجليزية
+#META# AuthorID: 53630386
+#META# Author: لبيبة ماضي هاشم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

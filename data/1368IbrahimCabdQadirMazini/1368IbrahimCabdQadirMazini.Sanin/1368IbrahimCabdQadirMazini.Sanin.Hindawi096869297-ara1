@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimCabdQadirMazini.Sanin.Hindawi96869297",
-    "BookCats": "novels",
-    "BookID": "96869297",
-    "BookTitle": "سانين",
-    "AuthorID": "18483842",
-    "AuthorNam": "ميخائيل أرتزيباشيف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "42571753",
-    "TranslNam": "إبراهيم عبد القادر المازني",
-    "BookRel": "1345MikhailArtsybashev.Sanin (TRANSL)"
-}
-
+#META# URI: 1368IbrahimCabdQadirMazini.Sanin.Hindawi96869297
+#META# Tags: novels
+#META# ID: 96869297
+#META# Title: سانين
+#META# AuthorID: 18483842
+#META# Author: ميخائيل أرتزيباشيف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 42571753
+#META# Translator: إبراهيم عبد القادر المازني
+#META# Related_books: 1345MikhailArtsybashev.Sanin (TRANSL)
 
 #META#Header#End#
 

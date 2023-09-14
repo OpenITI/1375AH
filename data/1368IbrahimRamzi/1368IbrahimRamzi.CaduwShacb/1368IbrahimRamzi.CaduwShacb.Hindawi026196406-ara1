@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.CaduwShacb.Hindawi26196406",
-    "BookCats": "plays",
-    "BookID": "26196406",
-    "BookTitle": "عدو الشعب",
-    "AuthorID": "81528395",
-    "AuthorNam": "هنريك إبسن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "27535259",
-    "TranslNam": "إبراهيم رمزي",
-    "BookRel": "1324HenrikIbsen.Folkefiende (TRANSL)"
-}
-
+#META# URI: 1368IbrahimRamzi.CaduwShacb.Hindawi26196406
+#META# Tags: plays
+#META# ID: 26196406
+#META# Title: عدو الشعب
+#META# AuthorID: 81528395
+#META# Author: هنريك إبسن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 27535259
+#META# Translator: إبراهيم رمزي
+#META# Related_books: 1324HenrikIbsen.Folkefiende (TRANSL)
 
 #META#Header#End#
 

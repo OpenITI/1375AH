@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360MayZiyada.IbtisamatWaDumuc.Hindawi17136091",
-    "BookCats": "literature",
-    "BookID": "17136091",
-    "BookTitle": "ابتسامات ودموع",
-    "AuthorID": "47904861",
-    "AuthorNam": "فريدريخ مكس مولر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "64620862",
-    "TranslNam": "مي زيادة",
-    "BookRel": "1318FriedrichMaxMuller.SmilesAndTears (TRANSL)"
-}
-
+#META# URI: 1360MayZiyada.IbtisamatWaDumuc.Hindawi17136091
+#META# Tags: literature
+#META# ID: 17136091
+#META# Title: ابتسامات ودموع
+#META# AuthorID: 47904861
+#META# Author: فريدريخ مكس مولر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 64620862
+#META# Translator: مي زيادة
+#META# Related_books: 1318FriedrichMaxMuller.SmilesAndTears (TRANSL)
 
 #META#Header#End#
 

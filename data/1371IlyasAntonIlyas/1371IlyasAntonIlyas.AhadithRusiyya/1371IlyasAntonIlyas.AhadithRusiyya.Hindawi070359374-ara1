@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371IlyasAntonIlyas.AhadithRusiyya.Hindawi70359374",
-    "BookCats": "literature",
-    "BookID": "70359374",
-    "BookTitle": "أحاديث روسية",
-    "AuthorID": "79480619",
-    "AuthorNam": "إلياس أنطون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371IlyasAntonIlyas.AhadithRusiyya.Hindawi70359374
+#META# Tags: literature
+#META# ID: 70359374
+#META# Title: أحاديث روسية
+#META# AuthorID: 79480619
+#META# Author: إلياس أنطون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

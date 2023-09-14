@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1358FiliksFaris.Aghlal.Hindawi39515395",
-    "BookCats": "plays :: history",
-    "BookID": "39515395",
-    "BookTitle": "الأغلال",
-    "AuthorID": "83172751",
-    "AuthorNam": "فليكس  فارس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1358FiliksFaris.Aghlal.Hindawi39515395
+#META# Tags: plays :: history
+#META# ID: 39515395
+#META# Title: الأغلال
+#META# AuthorID: 83172751
+#META# Author: فليكس  فارس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

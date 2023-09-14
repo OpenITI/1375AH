@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1352DawudBarakat.SudanMisri.Hindawi90520707",
-    "BookCats": "history",
-    "BookID": "90520707",
-    "BookTitle": "السودان المصري ومطامع السياسة البريطانية",
-    "AuthorID": "71863536",
-    "AuthorNam": "داود بركات",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1352DawudBarakat.SudanMisri.Hindawi90520707
+#META# Tags: history
+#META# ID: 90520707
+#META# Title: السودان المصري ومطامع السياسة البريطانية
+#META# AuthorID: 71863536
+#META# Author: داود بركات
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

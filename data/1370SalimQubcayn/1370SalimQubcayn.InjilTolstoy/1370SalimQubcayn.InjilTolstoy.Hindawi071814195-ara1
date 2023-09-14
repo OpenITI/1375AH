@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370SalimQubcayn.InjilTolstoy.Hindawi71814195",
-    "BookCats": "literature",
-    "BookID": "71814195",
-    "BookTitle": "إنجيل تولستوي وديانته",
-    "AuthorID": "70462502",
-    "AuthorNam": "ليو تولستوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "47253636",
-    "TranslNam": "سليم قبعين",
-    "BookRel": "1328LeoTolstoy.MyReligion (TRANSL)"
-}
-
+#META# URI: 1370SalimQubcayn.InjilTolstoy.Hindawi71814195
+#META# Tags: literature
+#META# ID: 71814195
+#META# Title: إنجيل تولستوي وديانته
+#META# AuthorID: 70462502
+#META# Author: ليو تولستوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 47253636
+#META# Translator: سليم قبعين
+#META# Related_books: 1328LeoTolstoy.MyReligion (TRANSL)
 
 #META#Header#End#
 

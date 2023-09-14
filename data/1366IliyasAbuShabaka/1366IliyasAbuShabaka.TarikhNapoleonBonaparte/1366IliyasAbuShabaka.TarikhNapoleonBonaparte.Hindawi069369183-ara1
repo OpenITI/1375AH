@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IliyasAbuShabaka.TarikhNapoleonBonaparte.Hindawi69369183",
-    "BookCats": "biographies",
-    "BookID": "69369183",
-    "BookTitle": "تاريخ نابوليون بونابرت: ١٧٦٩–١٨٢١‎‎",
-    "AuthorID": "95147246",
-    "AuthorNam": "إلياس أبو شبكة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366IliyasAbuShabaka.TarikhNapoleonBonaparte.Hindawi69369183
+#META# Tags: biographies
+#META# ID: 69369183
+#META# Title: تاريخ نابوليون بونابرت: ١٧٦٩–١٨٢١‎‎
+#META# AuthorID: 95147246
+#META# Author: إلياس أبو شبكة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

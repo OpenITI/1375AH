@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1352AhmadZaki.RiqqFiIslam.Hindawi83029750",
-    "BookCats": "history",
-    "BookID": "83029750",
-    "BookTitle": "الرق في الإسلام",
-    "AuthorID": "86815138",
-    "AuthorNam": "أحمد شفيق",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "14937183",
-    "TranslNam": "أحمد زكي",
-    "BookRel": "1359AhmadShafiq.EsclavageAuPointDeVueMusulman (TRANSL)"
-}
-
+#META# URI: 1352AhmadZaki.RiqqFiIslam.Hindawi83029750
+#META# Tags: history
+#META# ID: 83029750
+#META# Title: الرق في الإسلام
+#META# AuthorID: 86815138
+#META# Author: أحمد شفيق
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 14937183
+#META# Translator: أحمد زكي
+#META# Related_books: 1359AhmadShafiq.EsclavageAuPointDeVueMusulman (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.AbtalMansura.Hindawi50729579",
-    "BookCats": "plays",
-    "BookID": "50729579",
-    "BookTitle": "أبطال المنصورة",
-    "AuthorID": "27535259",
-    "AuthorNam": "إبراهيم رمزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimRamzi.AbtalMansura.Hindawi50729579
+#META# Tags: plays
+#META# ID: 50729579
+#META# Title: أبطال المنصورة
+#META# AuthorID: 27535259
+#META# Author: إبراهيم رمزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

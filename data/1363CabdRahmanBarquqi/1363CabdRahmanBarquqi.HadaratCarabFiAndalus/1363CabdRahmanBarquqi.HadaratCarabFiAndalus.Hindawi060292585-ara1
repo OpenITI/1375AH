@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1363CabdRahmanBarquqi.HadaratCarabFiAndalus.Hindawi60292585",
-    "BookCats": "literature :: history",
-    "BookID": "60292585",
-    "BookTitle": "حضارة العرب في الأندلس: رسائل تاريخية في قالب خيالي بديع",
-    "AuthorID": "29508305",
-    "AuthorNam": "عبد الرحمن البرقوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1363CabdRahmanBarquqi.HadaratCarabFiAndalus.Hindawi60292585
+#META# Tags: literature :: history
+#META# ID: 60292585
+#META# Title: حضارة العرب في الأندلس: رسائل تاريخية في قالب خيالي بديع
+#META# AuthorID: 29508305
+#META# Author: عبد الرحمن البرقوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1363CumarTusun.JayshMisriFiHarbRusiyyaMacrufaBiHarbQirim.Hindawi17307940",
-    "BookCats": "history",
-    "BookID": "17307940",
-    "BookTitle": "الجيش المصري في الحرب الروسية المعروفة بحرب القرم",
-    "AuthorID": "48305702",
-    "AuthorNam": "عمر طوسون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1363CumarTusun.JayshMisriFiHarbRusiyyaMacrufaBiHarbQirim.Hindawi17307940
+#META# Tags: history
+#META# ID: 17307940
+#META# Title: الجيش المصري في الحرب الروسية المعروفة بحرب القرم
+#META# AuthorID: 48305702
+#META# Author: عمر طوسون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

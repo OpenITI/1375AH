@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360MayZiyada.BahithatBadiya.Hindawi19027171",
-    "BookCats": "literary.criticism",
-    "BookID": "19027171",
-    "BookTitle": "باحثة البادية",
-    "AuthorID": "64620862",
-    "AuthorNam": "مي زيادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360MayZiyada.BahithatBadiya.Hindawi19027171
+#META# Tags: literary.criticism
+#META# ID: 19027171
+#META# Title: باحثة البادية
+#META# AuthorID: 64620862
+#META# Author: مي زيادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IliyasAbuShabaka.Jocelyn.Hindawi70931790",
-    "BookCats": "novels",
-    "BookID": "70931790",
-    "BookTitle": "جوسلين",
-    "AuthorID": "82085960",
-    "AuthorNam": "ألفونس دو لامارتين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "95147246",
-    "TranslNam": "إلياس أبو شبكة",
-    "BookRel": "1285AlphonseDeLamartine.Jocelyn (TRANSL)"
-}
-
+#META# URI: 1366IliyasAbuShabaka.Jocelyn.Hindawi70931790
+#META# Tags: novels
+#META# ID: 70931790
+#META# Title: جوسلين
+#META# AuthorID: 82085960
+#META# Author: ألفونس دو لامارتين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 95147246
+#META# Translator: إلياس أبو شبكة
+#META# Related_books: 1285AlphonseDeLamartine.Jocelyn (TRANSL)
 
 #META#Header#End#
 

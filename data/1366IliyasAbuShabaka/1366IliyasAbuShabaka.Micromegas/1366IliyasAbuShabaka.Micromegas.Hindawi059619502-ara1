@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IliyasAbuShabaka.Micromegas.Hindawi59619502",
-    "BookCats": "science.fiction",
-    "BookID": "59619502",
-    "BookTitle": "ميكروميغاس وثلاث قصص",
-    "AuthorID": "70507046",
-    "AuthorNam": "فولتير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "95147246",
-    "TranslNam": "إلياس أبو شبكة",
-    "BookRel": "1192Voltaire.Micromegas (TRANSL)"
-}
-
+#META# URI: 1366IliyasAbuShabaka.Micromegas.Hindawi59619502
+#META# Tags: science.fiction
+#META# ID: 59619502
+#META# Title: ميكروميغاس وثلاث قصص
+#META# AuthorID: 70507046
+#META# Author: فولتير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 95147246
+#META# Translator: إلياس أبو شبكة
+#META# Related_books: 1192Voltaire.Micromegas (TRANSL)
 
 #META#Header#End#
 

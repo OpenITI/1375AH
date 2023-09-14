@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371ZakiMubarak.MadaihNabawiyya.Hindawi51519061",
-    "BookCats": "literature :: poetry",
-    "BookID": "51519061",
-    "BookTitle": "المدائح النبوية في الأدب العربي",
-    "AuthorID": "41796397",
-    "AuthorNam": "زكي مبارك",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371ZakiMubarak.MadaihNabawiyya.Hindawi51519061
+#META# Tags: literature :: poetry
+#META# ID: 51519061
+#META# Title: المدائح النبوية في الأدب العربي
+#META# AuthorID: 41796397
+#META# Author: زكي مبارك
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

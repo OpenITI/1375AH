@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368KhalilMutran.TajirBundiqiyya.Hindawi39797960",
-    "BookCats": "literature",
-    "BookID": "39797960",
-    "BookTitle": "تاجر البندقية",
-    "AuthorID": "51483537",
-    "AuthorNam": "ويليام شكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71926269",
-    "TranslNam": "خليل مطران",
-    "BookRel": "1024WilliamShakespeare.MerchantOfVenice (TRANSL)"
-}
-
+#META# URI: 1368KhalilMutran.TajirBundiqiyya.Hindawi39797960
+#META# Tags: literature
+#META# ID: 39797960
+#META# Title: تاجر البندقية
+#META# AuthorID: 51483537
+#META# Author: ويليام شكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71926269
+#META# Translator: خليل مطران
+#META# Related_books: 1024WilliamShakespeare.MerchantOfVenice (TRANSL)
 
 #META#Header#End#
 

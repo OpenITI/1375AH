@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368KhalilMutran.Macbeth.Hindawi52040814",
-    "BookCats": "literature",
-    "BookID": "52040814",
-    "BookTitle": "مكبث",
-    "AuthorID": "51483537",
-    "AuthorNam": "ويليام شكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71926269",
-    "TranslNam": "خليل مطران",
-    "BookRel": "1024WilliamShakespeare.Macbeth (TRANSL)"
-}
-
+#META# URI: 1368KhalilMutran.Macbeth.Hindawi52040814
+#META# Tags: literature
+#META# ID: 52040814
+#META# Title: مكبث
+#META# AuthorID: 51483537
+#META# Author: ويليام شكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71926269
+#META# Translator: خليل مطران
+#META# Related_books: 1024WilliamShakespeare.Macbeth (TRANSL)
 
 #META#Header#End#
 

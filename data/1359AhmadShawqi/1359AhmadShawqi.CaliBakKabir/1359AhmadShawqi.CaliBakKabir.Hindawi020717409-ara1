@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AhmadShawqi.CaliBakKabir.Hindawi20717409",
-    "BookCats": "plays",
-    "BookID": "20717409",
-    "BookTitle": "علي بك الكبير",
-    "AuthorID": "37094079",
-    "AuthorNam": "أحمد شوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AhmadShawqi.CaliBakKabir.Hindawi20717409
+#META# Tags: plays
+#META# ID: 20717409
+#META# Title: علي بك الكبير
+#META# AuthorID: 37094079
+#META# Author: أحمد شوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

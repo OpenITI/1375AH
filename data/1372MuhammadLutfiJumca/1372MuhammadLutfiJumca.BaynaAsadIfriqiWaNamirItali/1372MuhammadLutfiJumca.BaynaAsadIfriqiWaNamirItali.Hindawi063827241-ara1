@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372MuhammadLutfiJumca.BaynaAsadIfriqiWaNamirItali.Hindawi63827241",
-    "BookCats": "history",
-    "BookID": "63827241",
-    "BookTitle": "بين الأسد الأفريقي والنمر الإيطالي: بحث تحليلي تاريخي ونفساني واجتماعي في المشكلة الحبشية الإيطالية",
-    "AuthorID": "72703631",
-    "AuthorNam": "محمد لطفي جمعة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372MuhammadLutfiJumca.BaynaAsadIfriqiWaNamirItali.Hindawi63827241
+#META# Tags: history
+#META# ID: 63827241
+#META# Title: بين الأسد الأفريقي والنمر الإيطالي: بحث تحليلي تاريخي ونفساني واجتماعي في المشكلة الحبشية الإيطالية
+#META# AuthorID: 72703631
+#META# Author: محمد لطفي جمعة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

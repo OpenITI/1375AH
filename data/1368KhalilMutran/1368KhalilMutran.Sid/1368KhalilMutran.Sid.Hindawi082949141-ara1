@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368KhalilMutran.Sid.Hindawi82949141",
-    "BookCats": "literature",
-    "BookID": "82949141",
-    "BookTitle": "السيد",
-    "AuthorID": "61603935",
-    "AuthorNam": "بيار كورناي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71926269",
-    "TranslNam": "خليل مطران",
-    "BookRel": "1095PierreCorneille.ElCid (TRANSL)"
-}
-
+#META# URI: 1368KhalilMutran.Sid.Hindawi82949141
+#META# Tags: literature
+#META# ID: 82949141
+#META# Title: السيد
+#META# AuthorID: 61603935
+#META# Author: بيار كورناي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71926269
+#META# Translator: خليل مطران
+#META# Related_books: 1095PierreCorneille.ElCid (TRANSL)
 
 #META#Header#End#
 

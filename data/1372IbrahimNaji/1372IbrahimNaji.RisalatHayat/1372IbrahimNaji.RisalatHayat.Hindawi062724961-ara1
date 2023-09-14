@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372IbrahimNaji.RisalatHayat.Hindawi62724961",
-    "BookCats": "literature",
-    "BookID": "62724961",
-    "BookTitle": "رسالة الحياة",
-    "AuthorID": "97571481",
-    "AuthorNam": "إبراهيم ناجي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372IbrahimNaji.RisalatHayat.Hindawi62724961
+#META# Tags: literature
+#META# ID: 62724961
+#META# Title: رسالة الحياة
+#META# AuthorID: 97571481
+#META# Author: إبراهيم ناجي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

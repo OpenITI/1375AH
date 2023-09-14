@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1369IsmacilSidqi.Mudhakkirati.Hindawi52646842",
-    "BookCats": "biographies",
-    "BookID": "52646842",
-    "BookTitle": "مذكراتي",
-    "AuthorID": "62791971",
-    "AuthorNam": "إسماعيل صدقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1369IsmacilSidqi.Mudhakkirati.Hindawi52646842
+#META# Tags: biographies
+#META# ID: 52646842
+#META# Title: مذكراتي
+#META# AuthorID: 62791971
+#META# Author: إسماعيل صدقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

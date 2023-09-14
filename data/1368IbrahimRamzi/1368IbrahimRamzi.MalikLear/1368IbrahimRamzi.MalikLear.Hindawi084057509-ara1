@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.MalikLear.Hindawi84057509",
-    "BookCats": "plays",
-    "BookID": "84057509",
-    "BookTitle": "الملك لير",
-    "AuthorID": "51483537",
-    "AuthorNam": "ويليام شكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "27535259",
-    "TranslNam": "إبراهيم رمزي",
-    "BookRel": "1024WilliamShakespeare.KingLear (TRANSL)"
-}
-
+#META# URI: 1368IbrahimRamzi.MalikLear.Hindawi84057509
+#META# Tags: plays
+#META# ID: 84057509
+#META# Title: الملك لير
+#META# AuthorID: 51483537
+#META# Author: ويليام شكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 27535259
+#META# Translator: إبراهيم رمزي
+#META# Related_books: 1024WilliamShakespeare.KingLear (TRANSL)
 
 #META#Header#End#
 

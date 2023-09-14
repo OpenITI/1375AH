@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368ShakibArslan.HulalSundusiyya01.Hindawi20790318",
-    "BookCats": "history",
-    "BookID": "20790318",
-    "BookTitle": "الحلل السندسية في الأخبار والآثار الأندلسية (الجزء الأول)",
-    "AuthorID": "79369353",
-    "AuthorNam": "شكيب أرسلان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368ShakibArslan.HulalSundusiyya01.Hindawi20790318
+#META# Tags: history
+#META# ID: 20790318
+#META# Title: الحلل السندسية في الأخبار والآثار الأندلسية (الجزء الأول)
+#META# AuthorID: 79369353
+#META# Author: شكيب أرسلان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

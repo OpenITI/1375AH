@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuhammadHusaynHaykal.SiddiqAbuBakr.Hindawi42908302",
-    "BookCats": "history",
-    "BookID": "42908302",
-    "BookTitle": "الصديق أبو بكر",
-    "AuthorID": "73037206",
-    "AuthorNam": "محمد حسين هيكل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuhammadHusaynHaykal.SiddiqAbuBakr.Hindawi42908302
+#META# Tags: history
+#META# ID: 42908302
+#META# Title: الصديق أبو بكر
+#META# AuthorID: 73037206
+#META# Author: محمد حسين هيكل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

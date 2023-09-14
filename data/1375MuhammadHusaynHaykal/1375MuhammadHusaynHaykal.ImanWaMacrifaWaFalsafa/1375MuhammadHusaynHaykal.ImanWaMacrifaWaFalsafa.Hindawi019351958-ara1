@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuhammadHusaynHaykal.ImanWaMacrifaWaFalsafa.Hindawi19351958",
-    "BookCats": "philosophy",
-    "BookID": "19351958",
-    "BookTitle": "الإيمان والمعرفة والفلسفة",
-    "AuthorID": "73037206",
-    "AuthorNam": "محمد حسين هيكل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuhammadHusaynHaykal.ImanWaMacrifaWaFalsafa.Hindawi19351958
+#META# Tags: philosophy
+#META# ID: 19351958
+#META# Title: الإيمان والمعرفة والفلسفة
+#META# AuthorID: 73037206
+#META# Author: محمد حسين هيكل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

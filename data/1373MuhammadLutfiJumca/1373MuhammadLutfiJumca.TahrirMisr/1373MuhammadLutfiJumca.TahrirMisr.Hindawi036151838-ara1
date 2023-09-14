@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373MuhammadLutfiJumca.TahrirMisr.Hindawi36151838",
-    "BookCats": "history",
-    "BookID": "36151838",
-    "BookTitle": "تحرير مصر",
-    "AuthorID": "50952939",
-    "AuthorNam": "أ. ز.",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "72703631",
-    "TranslNam": "محمد لطفي جمعة",
-    "BookRel": "1350Anonymous.TahrirMisr (TRANSL)"
-}
-
+#META# URI: 1373MuhammadLutfiJumca.TahrirMisr.Hindawi36151838
+#META# Tags: history
+#META# ID: 36151838
+#META# Title: تحرير مصر
+#META# AuthorID: 50952939
+#META# Author: أ. ز.
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 72703631
+#META# Translator: محمد لطفي جمعة
+#META# Related_books: 1350Anonymous.TahrirMisr (TRANSL)
 
 #META#Header#End#
 

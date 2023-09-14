@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IlyasAbuShabaka.Lamartine.Hindawi97573697",
-    "BookCats": "biographies",
-    "BookID": "97573697",
-    "BookTitle": "لامرتين",
-    "AuthorID": "95147246",
-    "AuthorNam": "إلياس أبو شبكة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366IlyasAbuShabaka.Lamartine.Hindawi97573697
+#META# Tags: biographies
+#META# ID: 97573697
+#META# Title: لامرتين
+#META# AuthorID: 95147246
+#META# Author: إلياس أبو شبكة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MutarjimiDarFarabi.AslNizamUsra.Hindawi86907157",
-    "BookCats": "philosophy",
-    "BookID": "86907157",
-    "BookTitle": "أصل نظام الأسرة والدولة والملكية الفردية",
-    "AuthorID": "81397928",
-    "AuthorNam": "فريدريك إنجلز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "1313FriedrichEngels.UrsprungDerFamilie (TRANSL)"
-}
-
+#META# URI: 1375MutarjimiDarFarabi.AslNizamUsra.Hindawi86907157
+#META# Tags: philosophy
+#META# ID: 86907157
+#META# Title: أصل نظام الأسرة والدولة والملكية الفردية
+#META# AuthorID: 81397928
+#META# Author: فريدريك إنجلز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: 1313FriedrichEngels.UrsprungDerFamilie (TRANSL)
 
 #META#Header#End#
 

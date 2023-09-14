@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.ArdashirWaHayatNufus.Hindawi90294913",
-    "BookCats": "plays",
-    "BookID": "90294913",
-    "BookTitle": "أردشير وحياة النفوس: قصة غرامية تلحينية",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.ArdashirWaHayatNufus.Hindawi90294913
+#META# Tags: plays
+#META# ID: 90294913
+#META# Title: أردشير وحياة النفوس: قصة غرامية تلحينية
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

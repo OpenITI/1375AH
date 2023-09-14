@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AminRihani.QalbCiraq.Hindawi42409306",
-    "BookCats": "literature",
-    "BookID": "42409306",
-    "BookTitle": "قلب العراق رحلات وتاريخ",
-    "AuthorID": "93831791",
-    "AuthorNam": "أمين الريحاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AminRihani.QalbCiraq.Hindawi42409306
+#META# Tags: literature
+#META# ID: 42409306
+#META# Title: قلب العراق رحلات وتاريخ
+#META# AuthorID: 93831791
+#META# Author: أمين الريحاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

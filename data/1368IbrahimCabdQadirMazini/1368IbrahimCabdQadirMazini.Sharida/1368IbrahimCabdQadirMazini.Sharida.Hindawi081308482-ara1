@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimCabdQadirMazini.Sharida.Hindawi81308482",
-    "BookCats": "novels",
-    "BookID": "81308482",
-    "BookTitle": "الشاردة",
-    "AuthorID": "73174929",
-    "AuthorNam": "جون جالسورذي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "42571753",
-    "TranslNam": "إبراهيم عبد القادر المازني",
-    "BookRel": "1351JohnGalsworthy.Fugitive (TRANSL)"
-}
-
+#META# URI: 1368IbrahimCabdQadirMazini.Sharida.Hindawi81308482
+#META# Tags: novels
+#META# ID: 81308482
+#META# Title: الشاردة
+#META# AuthorID: 73174929
+#META# Author: جون جالسورذي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 42571753
+#META# Translator: إبراهيم عبد القادر المازني
+#META# Related_books: 1351JohnGalsworthy.Fugitive (TRANSL)
 
 #META#Header#End#
 

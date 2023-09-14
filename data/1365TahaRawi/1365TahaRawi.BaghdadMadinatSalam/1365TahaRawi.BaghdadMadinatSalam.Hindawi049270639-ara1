@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1365TahaRawi.BaghdadMadinatSalam.Hindawi49270639",
-    "BookCats": "history",
-    "BookID": "49270639",
-    "BookTitle": "بغداد مدينة السلام",
-    "AuthorID": "48528029",
-    "AuthorNam": "طه الراوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1365TahaRawi.BaghdadMadinatSalam.Hindawi49270639
+#META# Tags: history
+#META# ID: 49270639
+#META# Title: بغداد مدينة السلام
+#META# AuthorID: 48528029
+#META# Author: طه الراوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

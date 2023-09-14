@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1365AhmadCisa.GhunaLiAtfal.Hindawi57192052",
-    "BookCats": "history :: arts",
-    "BookID": "57192052",
-    "BookTitle": "الغناء للأطفال عند العرب",
-    "AuthorID": "57468285",
-    "AuthorNam": "أحمد عيسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1365AhmadCisa.GhunaLiAtfal.Hindawi57192052
+#META# Tags: history :: arts
+#META# ID: 57192052
+#META# Title: الغناء للأطفال عند العرب
+#META# AuthorID: 57468285
+#META# Author: أحمد عيسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

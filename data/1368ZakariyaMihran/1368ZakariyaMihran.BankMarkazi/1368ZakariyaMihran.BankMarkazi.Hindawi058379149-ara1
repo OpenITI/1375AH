@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368ZakariyaMihran.BankMarkazi.Hindawi58379149",
-    "BookCats": "economics :: history",
-    "BookID": "58379149",
-    "BookTitle": "البنك المركزي في العصور المختلفة",
-    "AuthorID": "75147482",
-    "AuthorNam": "زكريا مهران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368ZakariyaMihran.BankMarkazi.Hindawi58379149
+#META# Tags: economics :: history
+#META# ID: 58379149
+#META# Title: البنك المركزي في العصور المختلفة
+#META# AuthorID: 75147482
+#META# Author: زكريا مهران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

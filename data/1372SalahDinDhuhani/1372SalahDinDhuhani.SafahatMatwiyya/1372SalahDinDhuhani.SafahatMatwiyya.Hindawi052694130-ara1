@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372SalahDinDhuhani.SafahatMatwiyya.Hindawi52694130",
-    "BookCats": "literature",
-    "BookID": "52694130",
-    "BookTitle": "صفحات مطوية",
-    "AuthorID": "40816042",
-    "AuthorNam": "صلاح الدين ذهني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372SalahDinDhuhani.SafahatMatwiyya.Hindawi52694130
+#META# Tags: literature
+#META# ID: 52694130
+#META# Title: صفحات مطوية
+#META# AuthorID: 40816042
+#META# Author: صلاح الدين ذهني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

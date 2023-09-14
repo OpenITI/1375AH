@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AhmadShawqi.CadhraHind.Hindawi82416046",
-    "BookCats": "novels :: literature",
-    "BookID": "82416046",
-    "BookTitle": "عذراء الهند",
-    "AuthorID": "37094079",
-    "AuthorNam": "أحمد شوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AhmadShawqi.CadhraHind.Hindawi82416046
+#META# Tags: novels :: literature
+#META# ID: 82416046
+#META# Title: عذراء الهند
+#META# AuthorID: 37094079
+#META# Author: أحمد شوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

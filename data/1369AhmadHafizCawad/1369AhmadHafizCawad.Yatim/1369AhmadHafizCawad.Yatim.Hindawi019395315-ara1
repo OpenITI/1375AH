@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1369AhmadHafizCawad.Yatim.Hindawi19395315",
-    "BookCats": "novels",
-    "BookID": "19395315",
-    "BookTitle": "اليتيم",
-    "AuthorID": "38515157",
-    "AuthorNam": "أحمد حافظ عوض",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1369AhmadHafizCawad.Yatim.Hindawi19395315
+#META# Tags: novels
+#META# ID: 19395315
+#META# Title: اليتيم
+#META# AuthorID: 38515157
+#META# Author: أحمد حافظ عوض
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

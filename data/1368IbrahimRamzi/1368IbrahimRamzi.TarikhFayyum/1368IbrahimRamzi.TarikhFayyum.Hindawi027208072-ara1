@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.TarikhFayyum.Hindawi27208072",
-    "BookCats": "history",
-    "BookID": "27208072",
-    "BookTitle": "تاريخ الفيوم",
-    "AuthorID": "29607190",
-    "AuthorNam": "إبراهيم رَمزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimRamzi.TarikhFayyum.Hindawi27208072
+#META# Tags: history
+#META# ID: 27208072
+#META# Title: تاريخ الفيوم
+#META# AuthorID: 29607190
+#META# Author: إبراهيم رَمزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

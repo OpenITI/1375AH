@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368CaliJarim.ShacirTamuh.Hindawi40204702",
-    "BookCats": "novels",
-    "BookID": "40204702",
-    "BookTitle": "الشاعر الطموح",
-    "AuthorID": "92581481",
-    "AuthorNam": "علي الجارم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368CaliJarim.ShacirTamuh.Hindawi40204702
+#META# Tags: novels
+#META# ID: 40204702
+#META# Title: الشاعر الطموح
+#META# AuthorID: 92581481
+#META# Author: علي الجارم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

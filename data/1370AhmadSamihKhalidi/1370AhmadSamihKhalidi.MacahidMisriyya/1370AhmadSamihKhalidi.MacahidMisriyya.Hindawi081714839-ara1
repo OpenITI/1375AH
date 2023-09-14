@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370AhmadSamihKhalidi.MacahidMisriyya.Hindawi81714839",
-    "BookCats": "history",
-    "BookID": "81714839",
-    "BookTitle": "المعاهد المصرية في بيت المقدس",
-    "AuthorID": "20836370",
-    "AuthorNam": "أحمد سامح الخالدي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370AhmadSamihKhalidi.MacahidMisriyya.Hindawi81714839
+#META# Tags: history
+#META# ID: 81714839
+#META# Title: المعاهد المصرية في بيت المقدس
+#META# AuthorID: 20836370
+#META# Author: أحمد سامح الخالدي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

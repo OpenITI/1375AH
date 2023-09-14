@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IliyasAbuShabaka.Qithara.Hindawi39474130",
-    "BookCats": "poetry",
-    "BookID": "39474130",
-    "BookTitle": "القيثارة",
-    "AuthorID": "95147246",
-    "AuthorNam": "إلياس أبو شبكة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366IliyasAbuShabaka.Qithara.Hindawi39474130
+#META# Tags: poetry
+#META# ID: 39474130
+#META# Title: القيثارة
+#META# AuthorID: 95147246
+#META# Author: إلياس أبو شبكة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362CabdCazizBishri.FilMiraa.Hindawi24029742",
-    "BookCats": "literature",
-    "BookID": "24029742",
-    "BookTitle": "في المرآة",
-    "AuthorID": "82863939",
-    "AuthorNam": "عبد العزيز البشري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362CabdCazizBishri.FilMiraa.Hindawi24029742
+#META# Tags: literature
+#META# ID: 24029742
+#META# Title: في المرآة
+#META# AuthorID: 82863939
+#META# Author: عبد العزيز البشري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

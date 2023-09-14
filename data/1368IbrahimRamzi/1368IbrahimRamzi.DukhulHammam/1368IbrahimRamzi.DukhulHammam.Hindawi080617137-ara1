@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.DukhulHammam.Hindawi80617137",
-    "BookCats": "plays",
-    "BookID": "80617137",
-    "BookTitle": "دخول الحمام مش زي خروجه",
-    "AuthorID": "27535259",
-    "AuthorNam": "إبراهيم رمزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimRamzi.DukhulHammam.Hindawi80617137
+#META# Tags: plays
+#META# ID: 80617137
+#META# Title: دخول الحمام مش زي خروجه
+#META# AuthorID: 27535259
+#META# Author: إبراهيم رمزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

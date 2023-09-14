@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1353AscadKhalilDaghir.MakayidHubb.Hindawi30257392",
-    "BookCats": "literature",
-    "BookID": "30257392",
-    "BookTitle": "مكايد الحب في قصور الملوك",
-    "AuthorID": "73868490",
-    "AuthorNam": "ثورنتن هال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "52083092",
-    "TranslNam": "أسعد خليل داغر",
-    "BookRel": "1450ThorntonHall.LoveAffairsOfCourts (TRANSL)"
-}
-
+#META# URI: 1353AscadKhalilDaghir.MakayidHubb.Hindawi30257392
+#META# Tags: literature
+#META# ID: 30257392
+#META# Title: مكايد الحب في قصور الملوك
+#META# AuthorID: 73868490
+#META# Author: ثورنتن هال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 52083092
+#META# Translator: أسعد خليل داغر
+#META# Related_books: 1450ThorntonHall.LoveAffairsOfCourts (TRANSL)
 
 #META#Header#End#
 

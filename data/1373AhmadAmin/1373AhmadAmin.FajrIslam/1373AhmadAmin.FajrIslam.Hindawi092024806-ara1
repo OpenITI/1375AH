@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373AhmadAmin.FajrIslam.Hindawi92024806",
-    "BookCats": "history",
-    "BookID": "92024806",
-    "BookTitle": "فجر الإسلام",
-    "AuthorID": "20953090",
-    "AuthorNam": "أحمد أمين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373AhmadAmin.FajrIslam.Hindawi92024806
+#META# Tags: history
+#META# ID: 92024806
+#META# Title: فجر الإسلام
+#META# AuthorID: 20953090
+#META# Author: أحمد أمين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

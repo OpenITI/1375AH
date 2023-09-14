@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368AntunSacada.Qissatan.Hindawi58590941",
-    "BookCats": "novels",
-    "BookID": "58590941",
-    "BookTitle": "قصتان: عِيدُ سَيِّدةِ صَيْدنايا وفاجعَةُ حُبٍّ",
-    "AuthorID": "62827060",
-    "AuthorNam": "أنطون سعادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368AntunSacada.Qissatan.Hindawi58590941
+#META# Tags: novels
+#META# ID: 58590941
+#META# Title: قصتان: عِيدُ سَيِّدةِ صَيْدنايا وفاجعَةُ حُبٍّ
+#META# AuthorID: 62827060
+#META# Author: أنطون سعادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

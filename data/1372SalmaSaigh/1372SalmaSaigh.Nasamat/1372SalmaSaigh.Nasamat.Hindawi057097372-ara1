@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372SalmaSaigh.Nasamat.Hindawi57097372",
-    "BookCats": "literature",
-    "BookID": "57097372",
-    "BookTitle": "النسمات",
-    "AuthorID": "95964285",
-    "AuthorNam": "سلمى صائغ",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372SalmaSaigh.Nasamat.Hindawi57097372
+#META# Tags: literature
+#META# ID: 57097372
+#META# Title: النسمات
+#META# AuthorID: 95964285
+#META# Author: سلمى صائغ
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

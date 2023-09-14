@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimCabdQadirMazini.SunduqDunya.Hindawi85938393",
-    "BookCats": "literature",
-    "BookID": "85938393",
-    "BookTitle": "صندوق الدنيا",
-    "AuthorID": "42571753",
-    "AuthorNam": "إبراهيم عبد القادر المازني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimCabdQadirMazini.SunduqDunya.Hindawi85938393
+#META# Tags: literature
+#META# ID: 85938393
+#META# Title: صندوق الدنيا
+#META# AuthorID: 42571753
+#META# Author: إبراهيم عبد القادر المازني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373WadicBustani.Bustani.Hindawi47473729",
-    "BookCats": "poetry",
-    "BookID": "47473729",
-    "BookTitle": "البستاني",
-    "AuthorID": "49795030",
-    "AuthorNam": "وديع البستاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373WadicBustani.Bustani.Hindawi47473729
+#META# Tags: poetry
+#META# ID: 47473729
+#META# Title: البستاني
+#META# AuthorID: 49795030
+#META# Author: وديع البستاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

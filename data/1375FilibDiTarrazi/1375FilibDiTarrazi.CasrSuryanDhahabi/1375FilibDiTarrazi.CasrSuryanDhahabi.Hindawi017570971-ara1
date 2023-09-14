@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375FilibDiTarrazi.CasrSuryanDhahabi.Hindawi17570971",
-    "BookCats": "history",
-    "BookID": "17570971",
-    "BookTitle": "عصر السريان الذهبي: بحث علمي تاريخي أثري",
-    "AuthorID": "47597385",
-    "AuthorNam": "فيليب دي طرازي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375FilibDiTarrazi.CasrSuryanDhahabi.Hindawi17570971
+#META# Tags: history
+#META# ID: 17570971
+#META# Title: عصر السريان الذهبي: بحث علمي تاريخي أثري
+#META# AuthorID: 47597385
+#META# Author: فيليب دي طرازي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

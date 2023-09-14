@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368NajibRihani.Mudhakkirat.Hindawi51630730",
-    "BookCats": "biographies",
-    "BookID": "51630730",
-    "BookTitle": "مذكرات نجيب الريحاني",
-    "AuthorID": "13164029",
-    "AuthorNam": "نجيب الريحاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368NajibRihani.Mudhakkirat.Hindawi51630730
+#META# Tags: biographies
+#META# ID: 51630730
+#META# Title: مذكرات نجيب الريحاني
+#META# AuthorID: 13164029
+#META# Author: نجيب الريحاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

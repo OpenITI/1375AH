@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1364AhmadMuharram.DiwanMajdIslam.Hindawi27194802",
-    "BookCats": "poetry",
-    "BookID": "27194802",
-    "BookTitle": "ديوان مجد الإسلام",
-    "AuthorID": "15386280",
-    "AuthorNam": "أحمد محرم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1364AhmadMuharram.DiwanMajdIslam.Hindawi27194802
+#META# Tags: poetry
+#META# ID: 27194802
+#META# Title: ديوان مجد الإسلام
+#META# AuthorID: 15386280
+#META# Author: أحمد محرم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

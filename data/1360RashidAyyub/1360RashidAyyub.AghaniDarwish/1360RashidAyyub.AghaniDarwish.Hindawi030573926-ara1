@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360RashidAyyub.AghaniDarwish.Hindawi30573926",
-    "BookCats": "poetry",
-    "BookID": "30573926",
-    "BookTitle": "أغاني الدرويش",
-    "AuthorID": "24040863",
-    "AuthorNam": "رشيد أيوب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360RashidAyyub.AghaniDarwish.Hindawi30573926
+#META# Tags: poetry
+#META# ID: 30573926
+#META# Title: أغاني الدرويش
+#META# AuthorID: 24040863
+#META# Author: رشيد أيوب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

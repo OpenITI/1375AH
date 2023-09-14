@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1352TadrusWahbi.CunwanTawfiq.Hindawi96279749",
-    "BookCats": "plays",
-    "BookID": "96279749",
-    "BookTitle": "عنوان التوفيق في قصة يوسف الصديق",
-    "AuthorID": "79531680 :: 91509525",
-    "AuthorNam": "تادرس وهبي :: سيد علي إسماعيل #دراسة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1352TadrusWahbi.CunwanTawfiq.Hindawi96279749
+#META# Tags: plays
+#META# ID: 96279749
+#META# Title: عنوان التوفيق في قصة يوسف الصديق
+#META# AuthorID: 79531680 :: 91509525
+#META# Author: تادرس وهبي :: سيد علي إسماعيل #دراسة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AhmadShawqi.AswaqDhahab.Hindawi81725259",
-    "BookCats": "literature",
-    "BookID": "81725259",
-    "BookTitle": "أسْوَاقُ الذَّهَبِ",
-    "AuthorID": "37094079",
-    "AuthorNam": "أحمد شوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AhmadShawqi.AswaqDhahab.Hindawi81725259
+#META# Tags: literature
+#META# ID: 81725259
+#META# Title: أسْوَاقُ الذَّهَبِ
+#META# AuthorID: 37094079
+#META# Author: أحمد شوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

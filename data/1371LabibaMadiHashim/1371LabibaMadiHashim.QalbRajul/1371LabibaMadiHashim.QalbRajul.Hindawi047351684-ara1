@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371LabibaMadiHashim.QalbRajul.Hindawi47351684",
-    "BookCats": "novels",
-    "BookID": "47351684",
-    "BookTitle": "قلب الرجل",
-    "AuthorID": "53630386",
-    "AuthorNam": "لبيبة ماضي هاشم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371LabibaMadiHashim.QalbRajul.Hindawi47351684
+#META# Tags: novels
+#META# ID: 47351684
+#META# Title: قلب الرجل
+#META# AuthorID: 53630386
+#META# Author: لبيبة ماضي هاشم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

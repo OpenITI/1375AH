@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373NiqulaHaddad.HawaJadida.Hindawi60626970",
-    "BookCats": "novels",
-    "BookID": "60626970",
-    "BookTitle": "حواء الجديدة",
-    "AuthorID": "60483937",
-    "AuthorNam": "نقولا حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373NiqulaHaddad.HawaJadida.Hindawi60626970
+#META# Tags: novels
+#META# ID: 60626970
+#META# Title: حواء الجديدة
+#META# AuthorID: 60483937
+#META# Author: نقولا حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

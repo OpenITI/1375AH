@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1369AntonZikri.NilFiCahdFaracina.Hindawi85913029",
-    "BookCats": "history",
-    "BookID": "85913029",
-    "BookTitle": "النيل في عهد الفراعنة والعرب",
-    "AuthorID": "97026070",
-    "AuthorNam": "أنطوان زكري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1369AntonZikri.NilFiCahdFaracina.Hindawi85913029
+#META# Tags: history
+#META# ID: 85913029
+#META# Title: النيل في عهد الفراعنة والعرب
+#META# AuthorID: 97026070
+#META# Author: أنطوان زكري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

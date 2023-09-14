@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuhammadMabrukNafic.MaQablIslam.Hindawi48683693",
-    "BookCats": "history",
-    "BookID": "48683693",
-    "BookTitle": "عصر ما قبل الإسلام",
-    "AuthorID": "68360924",
-    "AuthorNam": "محمد مبروك نافع",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuhammadMabrukNafic.MaQablIslam.Hindawi48683693
+#META# Tags: history
+#META# ID: 48683693
+#META# Title: عصر ما قبل الإسلام
+#META# AuthorID: 68360924
+#META# Author: محمد مبروك نافع
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

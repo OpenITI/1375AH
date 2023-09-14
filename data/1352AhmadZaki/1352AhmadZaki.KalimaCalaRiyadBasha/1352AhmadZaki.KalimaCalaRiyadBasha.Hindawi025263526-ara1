@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1352AhmadZaki.KalimaCalaRiyadBasha.Hindawi25263526",
-    "BookCats": "biographies",
-    "BookID": "25263526",
-    "BookTitle": "كلمة على رياض باشا: وصفحة من تاريخ مصر الحديث تتضمن خلاصة حياته",
-    "AuthorID": "14937183",
-    "AuthorNam": "أحمد زكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1352AhmadZaki.KalimaCalaRiyadBasha.Hindawi25263526
+#META# Tags: biographies
+#META# ID: 25263526
+#META# Title: كلمة على رياض باشا: وصفحة من تاريخ مصر الحديث تتضمن خلاصة حياته
+#META# AuthorID: 14937183
+#META# Author: أحمد زكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

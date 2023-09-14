@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372KhalilSakakini.MutalacatFiLughaWaAdab.Hindawi79708060",
-    "BookCats": "literature",
-    "BookID": "79708060",
-    "BookTitle": "مطالعات في اللغة والأدب",
-    "AuthorID": "59792931",
-    "AuthorNam": "خليل السكاكيني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372KhalilSakakini.MutalacatFiLughaWaAdab.Hindawi79708060
+#META# Tags: literature
+#META# ID: 79708060
+#META# Title: مطالعات في اللغة والأدب
+#META# AuthorID: 59792931
+#META# Author: خليل السكاكيني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

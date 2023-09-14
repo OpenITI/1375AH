@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375MuradFaraj.ShucaraYahudCarab.Hindawi52805036",
-    "BookCats": "literary.criticism :: history",
-    "BookID": "52805036",
-    "BookTitle": "الشعراء اليهود العرب",
-    "AuthorID": "39137184",
-    "AuthorNam": "مراد فرج",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375MuradFaraj.ShucaraYahudCarab.Hindawi52805036
+#META# Tags: literary.criticism :: history
+#META# ID: 52805036
+#META# Title: الشعراء اليهود العرب
+#META# AuthorID: 39137184
+#META# Author: مراد فرج
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

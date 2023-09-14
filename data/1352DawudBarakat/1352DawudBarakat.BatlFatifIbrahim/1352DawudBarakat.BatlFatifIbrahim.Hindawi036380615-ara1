@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1352DawudBarakat.BatlFatifIbrahim.Hindawi36380615",
-    "BookCats": "history",
-    "BookID": "36380615",
-    "BookTitle": "البطل الفاتح إبراهيم وفتحه الشام ١٨٣٢",
-    "AuthorID": "71863536",
-    "AuthorNam": "داود بركات",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1352DawudBarakat.BatlFatifIbrahim.Hindawi36380615
+#META# Tags: history
+#META# ID: 36380615
+#META# Title: البطل الفاتح إبراهيم وفتحه الشام ١٨٣٢
+#META# AuthorID: 71863536
+#META# Author: داود بركات
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373AhmadAmin.ZucamaIslahFiCasrHadith.Hindawi35757396",
-    "BookCats": "history",
-    "BookID": "35757396",
-    "BookTitle": "زعماء الإصلاح في العصر الحديث",
-    "AuthorID": "20953090",
-    "AuthorNam": "أحمد أمين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373AhmadAmin.ZucamaIslahFiCasrHadith.Hindawi35757396
+#META# Tags: history
+#META# ID: 35757396
+#META# Title: زعماء الإصلاح في العصر الحديث
+#META# AuthorID: 20953090
+#META# Author: أحمد أمين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

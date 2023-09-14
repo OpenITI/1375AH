@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375AntuShuhaybir.Shaqiqatayn.Hindawi13925094",
-    "BookCats": "novels",
-    "BookID": "13925094",
-    "BookTitle": "رواية الشقيقتين",
-    "AuthorID": "24136070",
-    "AuthorNam": "هنري لامنس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "38025757",
-    "TranslNam": "أنطون شحيبر",
-    "BookRel": "1356HenriLammens (TRANSL)"
-}
-
+#META# URI: 1375AntuShuhaybir.Shaqiqatayn.Hindawi13925094
+#META# Tags: novels
+#META# ID: 13925094
+#META# Title: رواية الشقيقتين
+#META# AuthorID: 24136070
+#META# Author: هنري لامنس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 38025757
+#META# Translator: أنطون شحيبر
+#META# Related_books: 1356HenriLammens (TRANSL)
 
 #META#Header#End#
 

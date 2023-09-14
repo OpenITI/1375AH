@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1367AntunJumayyil.Samawal.Hindawi14942790",
-    "BookCats": "plays",
-    "BookID": "14942790",
-    "BookTitle": "السموأل: رواية تمثيلية ذات أربعة فصول",
-    "AuthorID": "75924646",
-    "AuthorNam": "أنطون الجميِّل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1367AntunJumayyil.Samawal.Hindawi14942790
+#META# Tags: plays
+#META# ID: 14942790
+#META# Title: السموأل: رواية تمثيلية ذات أربعة فصول
+#META# AuthorID: 75924646
+#META# Author: أنطون الجميِّل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

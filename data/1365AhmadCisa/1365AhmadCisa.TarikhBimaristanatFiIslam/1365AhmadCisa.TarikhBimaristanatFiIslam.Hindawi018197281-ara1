@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1365AhmadCisa.TarikhBimaristanatFiIslam.Hindawi18197281",
-    "BookCats": "history",
-    "BookID": "18197281",
-    "BookTitle": "تاريخ البيمارستانات في الإسلام",
-    "AuthorID": "57468285",
-    "AuthorNam": "أحمد عيسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1365AhmadCisa.TarikhBimaristanatFiIslam.Hindawi18197281
+#META# Tags: history
+#META# ID: 18197281
+#META# Title: تاريخ البيمارستانات في الإسلام
+#META# AuthorID: 57468285
+#META# Author: أحمد عيسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375FilibDiTarrazi.LughaCarabiyyaFiUrubba.Hindawi82405713",
-    "BookCats": "history",
-    "BookID": "82405713",
-    "BookTitle": "اللغة العربية في أوروبا",
-    "AuthorID": "47597385",
-    "AuthorNam": "فيليب دي طرازي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375FilibDiTarrazi.LughaCarabiyyaFiUrubba.Hindawi82405713
+#META# Tags: history
+#META# ID: 82405713
+#META# Title: اللغة العربية في أوروبا
+#META# AuthorID: 47597385
+#META# Author: فيليب دي طرازي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

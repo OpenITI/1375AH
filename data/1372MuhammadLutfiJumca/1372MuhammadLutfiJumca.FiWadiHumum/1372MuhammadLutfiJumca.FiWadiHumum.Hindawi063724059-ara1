@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372MuhammadLutfiJumca.FiWadiHumum.Hindawi63724059",
-    "BookCats": "novels",
-    "BookID": "63724059",
-    "BookTitle": "في وادي الهموم",
-    "AuthorID": "72703631",
-    "AuthorNam": "محمد لطفي جمعة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372MuhammadLutfiJumca.FiWadiHumum.Hindawi63724059
+#META# Tags: novels
+#META# ID: 63724059
+#META# Title: في وادي الهموم
+#META# AuthorID: 72703631
+#META# Author: محمد لطفي جمعة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

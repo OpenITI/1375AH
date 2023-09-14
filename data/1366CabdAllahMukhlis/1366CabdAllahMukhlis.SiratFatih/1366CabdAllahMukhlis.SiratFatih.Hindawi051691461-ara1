@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366CabdAllahMukhlis.SiratFatih.Hindawi51691461",
-    "BookCats": "history :: biographies",
-    "BookID": "51691461",
-    "BookTitle": "سيرة الفاتح",
-    "AuthorID": "83790502",
-    "AuthorNam": "نامق كمال",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "94270904",
-    "TranslNam": "عبد الله مخلص",
-    "BookRel": "1306NamikKamal.Fatih (TRANSL)"
-}
-
+#META# URI: 1366CabdAllahMukhlis.SiratFatih.Hindawi51691461
+#META# Tags: history :: biographies
+#META# ID: 51691461
+#META# Title: سيرة الفاتح
+#META# AuthorID: 83790502
+#META# Author: نامق كمال
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 94270904
+#META# Translator: عبد الله مخلص
+#META# Related_books: 1306NamikKamal.Fatih (TRANSL)
 
 #META#Header#End#
 

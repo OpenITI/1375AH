@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1358FiliksFaris.IctirafatFataCasr.Hindawi61502415",
-    "BookCats": "novels",
-    "BookID": "61502415",
-    "BookTitle": "اعترافات فتى العصر",
-    "AuthorID": "94830742",
-    "AuthorNam": "ألفريد دي موسيه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "83172751",
-    "TranslNam": "فليكس فارس",
-    "BookRel": "1273AlfredDeMusset.ConfessionDeEnfant (TRANSL)"
-}
-
+#META# URI: 1358FiliksFaris.IctirafatFataCasr.Hindawi61502415
+#META# Tags: novels
+#META# ID: 61502415
+#META# Title: اعترافات فتى العصر
+#META# AuthorID: 94830742
+#META# Author: ألفريد دي موسيه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 83172751
+#META# Translator: فليكس فارس
+#META# Related_books: 1273AlfredDeMusset.ConfessionDeEnfant (TRANSL)
 
 #META#Header#End#
 

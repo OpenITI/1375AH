@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360MayZiyada.ZulumatWaAshicca.Hindawi26397073",
-    "BookCats": "literature",
-    "BookID": "26397073",
-    "BookTitle": "ظلمات وأشعة",
-    "AuthorID": "64620862",
-    "AuthorNam": "مي زيادة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360MayZiyada.ZulumatWaAshicca.Hindawi26397073
+#META# Tags: literature
+#META# ID: 26397073
+#META# Title: ظلمات وأشعة
+#META# AuthorID: 64620862
+#META# Author: مي زيادة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

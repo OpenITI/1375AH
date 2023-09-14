@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IliyasAbuShabaka.TabibCalaRaghmMinhu.Hindawi27046930",
-    "BookCats": "plays",
-    "BookID": "27046930",
-    "BookTitle": "الطبيب على الرغم منه",
-    "AuthorID": "38572642",
-    "AuthorNam": "موليير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "95147246",
-    "TranslNam": "إلياس أبو شبكة",
-    "BookRel": "1083Moliere.MedecinMalgreLui (TRANSL)"
-}
-
+#META# URI: 1366IliyasAbuShabaka.TabibCalaRaghmMinhu.Hindawi27046930
+#META# Tags: plays
+#META# ID: 27046930
+#META# Title: الطبيب على الرغم منه
+#META# AuthorID: 38572642
+#META# Author: موليير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 95147246
+#META# Translator: إلياس أبو شبكة
+#META# Related_books: 1083Moliere.MedecinMalgreLui (TRANSL)
 
 #META#Header#End#
 

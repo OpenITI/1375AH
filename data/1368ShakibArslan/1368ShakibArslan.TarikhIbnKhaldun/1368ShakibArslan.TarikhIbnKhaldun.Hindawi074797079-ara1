@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368ShakibArslan.TarikhIbnKhaldun.Hindawi74797079",
-    "BookCats": "history",
-    "BookID": "74797079",
-    "BookTitle": "تاريخ ابن خلدون",
-    "AuthorID": "79369353",
-    "AuthorNam": "شكيب أرسلان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368ShakibArslan.TarikhIbnKhaldun.Hindawi74797079
+#META# Tags: history
+#META# ID: 74797079
+#META# Title: تاريخ ابن خلدون
+#META# AuthorID: 79369353
+#META# Author: شكيب أرسلان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

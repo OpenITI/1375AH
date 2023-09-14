@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373AhmadAmin.MabadiFalsafa.Hindawi19179686",
-    "BookCats": "philosophy",
-    "BookID": "19179686",
-    "BookTitle": "مبادئ الفلسفة",
-    "AuthorID": "75352418",
-    "AuthorNam": "أ. س. رابوبرت",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "20953090",
-    "TranslNam": "أحمد أمين",
-    "BookRel": "1428AnatolRapoport.MabadiFalsafa (TRANSL)"
-}
-
+#META# URI: 1373AhmadAmin.MabadiFalsafa.Hindawi19179686
+#META# Tags: philosophy
+#META# ID: 19179686
+#META# Title: مبادئ الفلسفة
+#META# AuthorID: 75352418
+#META# Author: أ. س. رابوبرت
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 20953090
+#META# Translator: أحمد أمين
+#META# Related_books: 1428AnatolRapoport.MabadiFalsafa (TRANSL)
 
 #META#Header#End#
 

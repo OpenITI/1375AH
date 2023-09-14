@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AminRihani.FaysalAwwal.Hindawi26848631",
-    "BookCats": "biographies :: history",
-    "BookID": "26848631",
-    "BookTitle": "فيصل الأول: رحلات وتاريخ",
-    "AuthorID": "93831791",
-    "AuthorNam": "أمين الريحاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AminRihani.FaysalAwwal.Hindawi26848631
+#META# Tags: biographies :: history
+#META# ID: 26848631
+#META# Title: فيصل الأول: رحلات وتاريخ
+#META# AuthorID: 93831791
+#META# Author: أمين الريحاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

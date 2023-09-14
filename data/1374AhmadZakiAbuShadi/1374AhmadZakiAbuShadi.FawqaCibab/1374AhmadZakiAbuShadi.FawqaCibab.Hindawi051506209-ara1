@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.FawqaCibab.Hindawi51506209",
-    "BookCats": "poetry",
-    "BookID": "51506209",
-    "BookTitle": "فوق العباب",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.FawqaCibab.Hindawi51506209
+#META# Tags: poetry
+#META# ID: 51506209
+#META# Title: فوق العباب
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

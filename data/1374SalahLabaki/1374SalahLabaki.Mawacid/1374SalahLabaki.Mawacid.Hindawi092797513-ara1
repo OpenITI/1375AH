@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374SalahLabaki.Mawacid.Hindawi92797513",
-    "BookCats": "poetry",
-    "BookID": "92797513",
-    "BookTitle": "مواعيد",
-    "AuthorID": "97074095",
-    "AuthorNam": "صلاح لبكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374SalahLabaki.Mawacid.Hindawi92797513
+#META# Tags: poetry
+#META# ID: 92797513
+#META# Title: مواعيد
+#META# AuthorID: 97074095
+#META# Author: صلاح لبكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

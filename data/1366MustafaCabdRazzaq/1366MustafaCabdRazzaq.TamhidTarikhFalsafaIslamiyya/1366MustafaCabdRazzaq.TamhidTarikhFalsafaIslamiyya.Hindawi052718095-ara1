@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366MustafaCabdRazzaq.TamhidTarikhFalsafaIslamiyya.Hindawi52718095",
-    "BookCats": "philosophy",
-    "BookID": "52718095",
-    "BookTitle": "تمهيد لتاريخ الفلسفة الإسلامية",
-    "AuthorID": "58628571",
-    "AuthorNam": "مصطفى عبد الرازق",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366MustafaCabdRazzaq.TamhidTarikhFalsafaIslamiyya.Hindawi52718095
+#META# Tags: philosophy
+#META# ID: 52718095
+#META# Title: تمهيد لتاريخ الفلسفة الإسلامية
+#META# AuthorID: 58628571
+#META# Author: مصطفى عبد الرازق
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

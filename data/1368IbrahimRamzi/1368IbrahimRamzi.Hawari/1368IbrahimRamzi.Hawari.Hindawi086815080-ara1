@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.Hawari.Hindawi86815080",
-    "BookCats": "plays",
-    "BookID": "86815080",
-    "BookTitle": "الهواري: رواية تلحينية عربية ذات فصل واحد",
-    "AuthorID": "27535259",
-    "AuthorNam": "إبراهيم رمزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimRamzi.Hawari.Hindawi86815080
+#META# Tags: plays
+#META# ID: 86815080
+#META# Title: الهواري: رواية تلحينية عربية ذات فصل واحد
+#META# AuthorID: 27535259
+#META# Author: إبراهيم رمزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

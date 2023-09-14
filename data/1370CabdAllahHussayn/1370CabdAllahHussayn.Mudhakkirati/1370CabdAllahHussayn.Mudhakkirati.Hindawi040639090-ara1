@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370CabdAllahHussayn.Mudhakkirati.Hindawi40639090",
-    "BookCats": "biographies",
-    "BookID": "40639090",
-    "BookTitle": "مذكراتي",
-    "AuthorID": "18402424",
-    "AuthorNam": "عبد الله بن الحسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370CabdAllahHussayn.Mudhakkirati.Hindawi40639090
+#META# Tags: biographies
+#META# ID: 40639090
+#META# Title: مذكراتي
+#META# AuthorID: 18402424
+#META# Author: عبد الله بن الحسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

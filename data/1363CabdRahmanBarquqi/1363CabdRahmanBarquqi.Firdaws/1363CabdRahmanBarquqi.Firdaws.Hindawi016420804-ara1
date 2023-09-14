@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1363CabdRahmanBarquqi.Firdaws.Hindawi16420804",
-    "BookCats": "literature",
-    "BookID": "16420804",
-    "BookTitle": "الفردوس",
-    "AuthorID": "29508305",
-    "AuthorNam": "عبد الرحمن البرقوقي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1363CabdRahmanBarquqi.Firdaws.Hindawi16420804
+#META# Tags: literature
+#META# ID: 16420804
+#META# Title: الفردوس
+#META# AuthorID: 29508305
+#META# Author: عبد الرحمن البرقوقي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

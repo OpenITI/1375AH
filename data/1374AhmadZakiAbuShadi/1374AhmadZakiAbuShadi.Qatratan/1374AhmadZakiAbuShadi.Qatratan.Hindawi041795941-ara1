@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.Qatratan.Hindawi41795941",
-    "BookCats": "poetry :: literature",
-    "BookID": "41795941",
-    "BookTitle": "قطرتان: من النثر والنظم",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.Qatratan.Hindawi41795941
+#META# Tags: poetry :: literature
+#META# ID: 41795941
+#META# Title: قطرتان: من النثر والنظم
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

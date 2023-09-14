@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368CaliJarim.QissatCarabFiIsbaniya.Hindawi26949253",
-    "BookCats": "history",
-    "BookID": "26949253",
-    "BookTitle": "قصة العرب في إسبانيا",
-    "AuthorID": "25292816",
-    "AuthorNam": "ستانلي لين بول",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "92581481",
-    "TranslNam": "علي الجارم",
-    "BookRel": "1350StanleyLanePoole.MoorsInSpain (TRANSL)"
-}
-
+#META# URI: 1368CaliJarim.QissatCarabFiIsbaniya.Hindawi26949253
+#META# Tags: history
+#META# ID: 26949253
+#META# Title: قصة العرب في إسبانيا
+#META# AuthorID: 25292816
+#META# Author: ستانلي لين بول
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 92581481
+#META# Translator: علي الجارم
+#META# Related_books: 1350StanleyLanePoole.MoorsInSpain (TRANSL)
 
 #META#Header#End#
 

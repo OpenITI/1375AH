@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374SalahLabaki.Sam.Hindawi81537939",
-    "BookCats": "poetry",
-    "BookID": "81537939",
-    "BookTitle": "سأم",
-    "AuthorID": "97074095",
-    "AuthorNam": "صلاح لبكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374SalahLabaki.Sam.Hindawi81537939
+#META# Tags: poetry
+#META# ID: 81537939
+#META# Title: سأم
+#META# AuthorID: 97074095
+#META# Author: صلاح لبكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

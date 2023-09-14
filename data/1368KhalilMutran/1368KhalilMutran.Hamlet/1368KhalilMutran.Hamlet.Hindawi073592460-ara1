@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368KhalilMutran.Hamlet.Hindawi73592460",
-    "BookCats": "plays",
-    "BookID": "73592460",
-    "BookTitle": "هَمْلِت",
-    "AuthorID": "51483537",
-    "AuthorNam": "ويليام شكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71926269",
-    "TranslNam": "خليل مطران",
-    "BookRel": "1024WilliamShakespeare.Hamlet (TRANSL)"
-}
-
+#META# URI: 1368KhalilMutran.Hamlet.Hindawi73592460
+#META# Tags: plays
+#META# ID: 73592460
+#META# Title: هَمْلِت
+#META# AuthorID: 51483537
+#META# Author: ويليام شكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71926269
+#META# Translator: خليل مطران
+#META# Related_books: 1024WilliamShakespeare.Hamlet (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1358FiliksFaris.HakadhaTakallamZaradusht.Hindawi19595390",
-    "BookCats": "philosophy :: literature",
-    "BookID": "19595390",
-    "BookTitle": "هكذا تكلم زرادشت: كتاب للكل ولا لأحد",
-    "AuthorID": "58086140",
-    "AuthorNam": "فريدريك نيتشه",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "83172751",
-    "TranslNam": "فليكس  فارس",
-    "BookRel": "1318FriedrichNietzsche.AlsoSprachZarathustra (TRANSL)"
-}
-
+#META# URI: 1358FiliksFaris.HakadhaTakallamZaradusht.Hindawi19595390
+#META# Tags: philosophy :: literature
+#META# ID: 19595390
+#META# Title: هكذا تكلم زرادشت: كتاب للكل ولا لأحد
+#META# AuthorID: 58086140
+#META# Author: فريدريك نيتشه
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 83172751
+#META# Translator: فليكس  فارس
+#META# Related_books: 1318FriedrichNietzsche.AlsoSprachZarathustra (TRANSL)
 
 #META#Header#End#
 

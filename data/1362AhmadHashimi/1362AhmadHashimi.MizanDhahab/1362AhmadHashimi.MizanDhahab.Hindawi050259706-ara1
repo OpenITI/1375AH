@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362AhmadHashimi.MizanDhahab.Hindawi50259706",
-    "BookCats": "linguistics",
-    "BookID": "50259706",
-    "BookTitle": "ميزان الذهب في صناعة شعر العرب",
-    "AuthorID": "14975162",
-    "AuthorNam": "أحمد الهاشمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362AhmadHashimi.MizanDhahab.Hindawi50259706
+#META# Tags: linguistics
+#META# ID: 50259706
+#META# Title: ميزان الذهب في صناعة شعر العرب
+#META# AuthorID: 14975162
+#META# Author: أحمد الهاشمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

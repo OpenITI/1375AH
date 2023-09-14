@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.BabQamar.Hindawi80968603",
-    "BookCats": "novels",
-    "BookID": "80968603",
-    "BookTitle": "باب القمر",
-    "AuthorID": "27535259",
-    "AuthorNam": "إبراهيم رمزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimRamzi.BabQamar.Hindawi80968603
+#META# Tags: novels
+#META# ID: 80968603
+#META# Title: باب القمر
+#META# AuthorID: 27535259
+#META# Author: إبراهيم رمزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

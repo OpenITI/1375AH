@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IlyasAbuShabaka.MinSacidAliha.Hindawi50275740",
-    "BookCats": "poetry",
-    "BookID": "50275740",
-    "BookTitle": "من صعيد الآلهة",
-    "AuthorID": "95147246",
-    "AuthorNam": "إلياس أبو شبكة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366IlyasAbuShabaka.MinSacidAliha.Hindawi50275740
+#META# Tags: poetry
+#META# ID: 50275740
+#META# Title: من صعيد الآلهة
+#META# AuthorID: 95147246
+#META# Author: إلياس أبو شبكة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368ShakibArslan.Diwan.Hindawi86427138",
-    "BookCats": "poetry",
-    "BookID": "86427138",
-    "BookTitle": "ديوان الأمير شكيب أرسلان",
-    "AuthorID": "79369353",
-    "AuthorNam": "شكيب أرسلان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368ShakibArslan.Diwan.Hindawi86427138
+#META# Tags: poetry
+#META# ID: 86427138
+#META# Title: ديوان الأمير شكيب أرسلان
+#META# AuthorID: 79369353
+#META# Author: شكيب أرسلان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1361CabdAllahHusayn.MasalaHabashiyya.Hindawi29373572",
-    "BookCats": "history",
-    "BookID": "29373572",
-    "BookTitle": "المسألة الحبشية",
-    "AuthorID": "95373730",
-    "AuthorNam": "عبد الله حسين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1361CabdAllahHusayn.MasalaHabashiyya.Hindawi29373572
+#META# Tags: history
+#META# ID: 29373572
+#META# Title: المسألة الحبشية
+#META# AuthorID: 95373730
+#META# Author: عبد الله حسين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371ZakiMubarak.MadamicCushshaq.Hindawi92480708",
-    "BookCats": "literature",
-    "BookID": "92480708",
-    "BookTitle": "مدامع العشاق",
-    "AuthorID": "41796397",
-    "AuthorNam": "زكي مبارك",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371ZakiMubarak.MadamicCushshaq.Hindawi92480708
+#META# Tags: literature
+#META# ID: 92480708
+#META# Title: مدامع العشاق
+#META# AuthorID: 41796397
+#META# Author: زكي مبارك
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

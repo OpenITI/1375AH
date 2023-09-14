@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1356MuhammadTawfiqCali.Diwan.Hindawi75941839",
-    "BookCats": "poetry",
-    "BookID": "75941839",
-    "BookTitle": "ديوان توفيق",
-    "AuthorID": "30627305",
-    "AuthorNam": "محمد توفيق علي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1356MuhammadTawfiqCali.Diwan.Hindawi75941839
+#META# Tags: poetry
+#META# ID: 75941839
+#META# Title: ديوان توفيق
+#META# AuthorID: 30627305
+#META# Author: محمد توفيق علي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

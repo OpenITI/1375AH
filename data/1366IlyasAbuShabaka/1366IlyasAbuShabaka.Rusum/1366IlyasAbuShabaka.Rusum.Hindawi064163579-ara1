@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IlyasAbuShabaka.Rusum.Hindawi64163579",
-    "BookCats": "biographies :: literature",
-    "BookID": "64163579",
-    "BookTitle": "الرسوم",
-    "AuthorID": "95147246",
-    "AuthorNam": "إلياس أبو شبكة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366IlyasAbuShabaka.Rusum.Hindawi64163579
+#META# Tags: biographies :: literature
+#META# ID: 64163579
+#META# Title: الرسوم
+#META# AuthorID: 95147246
+#META# Author: إلياس أبو شبكة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

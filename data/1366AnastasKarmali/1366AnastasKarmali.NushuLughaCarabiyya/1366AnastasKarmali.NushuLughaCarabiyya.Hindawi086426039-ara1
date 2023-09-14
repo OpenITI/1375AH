@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366AnastasKarmali.NushuLughaCarabiyya.Hindawi86426039",
-    "BookCats": "linguistics",
-    "BookID": "86426039",
-    "BookTitle": "نشوء اللغة العربية ونموها واكتهالها",
-    "AuthorID": "47937959",
-    "AuthorNam": "أنستاس ماري الكرملي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366AnastasKarmali.NushuLughaCarabiyya.Hindawi86426039
+#META# Tags: linguistics
+#META# ID: 86426039
+#META# Title: نشوء اللغة العربية ونموها واكتهالها
+#META# AuthorID: 47937959
+#META# Author: أنستاس ماري الكرملي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

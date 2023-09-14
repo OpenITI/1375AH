@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374SulaymanNajib.MudhakkiratCarabaji.Hindawi28068295",
-    "BookCats": "literature",
-    "BookID": "28068295",
-    "BookTitle": "مذكرات عربجي",
-    "AuthorID": "19264904",
-    "AuthorNam": "سليمان نجيب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374SulaymanNajib.MudhakkiratCarabaji.Hindawi28068295
+#META# Tags: literature
+#META# ID: 28068295
+#META# Title: مذكرات عربجي
+#META# AuthorID: 19264904
+#META# Author: سليمان نجيب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

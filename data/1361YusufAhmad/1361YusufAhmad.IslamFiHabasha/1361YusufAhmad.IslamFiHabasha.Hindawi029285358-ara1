@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1361YusufAhmad.IslamFiHabasha.Hindawi29285358",
-    "BookCats": "history",
-    "BookID": "29285358",
-    "BookTitle": "الإسلام في الحبشة: وثائق صحيحة قيمة عن أحوال المسلمين في مملكة إثيوبيا من شروق شمس الإسلام إلى هذه الأيام",
-    "AuthorID": "40683826",
-    "AuthorNam": "يوسف أحمد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1361YusufAhmad.IslamFiHabasha.Hindawi29285358
+#META# Tags: history
+#META# ID: 29285358
+#META# Title: الإسلام في الحبشة: وثائق صحيحة قيمة عن أحوال المسلمين في مملكة إثيوبيا من شروق شمس الإسلام إلى هذه الأيام
+#META# AuthorID: 40683826
+#META# Author: يوسف أحمد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

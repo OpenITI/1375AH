@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373NiqulaHaddad.CilmAdabNafs.Hindawi90940842",
-    "BookCats": "philosophy",
-    "BookID": "90940842",
-    "BookTitle": "علم أدب النفس: أوليات الفلسفة الأدبية",
-    "AuthorID": "60483937",
-    "AuthorNam": "نقولا حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373NiqulaHaddad.CilmAdabNafs.Hindawi90940842
+#META# Tags: philosophy
+#META# ID: 90940842
+#META# Title: علم أدب النفس: أوليات الفلسفة الأدبية
+#META# AuthorID: 60483937
+#META# Author: نقولا حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

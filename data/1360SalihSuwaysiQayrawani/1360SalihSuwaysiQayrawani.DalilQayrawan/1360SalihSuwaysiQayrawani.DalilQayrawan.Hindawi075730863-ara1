@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360SalihSuwaysiQayrawani.DalilQayrawan.Hindawi75730863",
-    "BookCats": "history",
-    "BookID": "75730863",
-    "BookTitle": "دليل القيروان",
-    "AuthorID": "82405281",
-    "AuthorNam": "صالح سويسي القيرواني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360SalihSuwaysiQayrawani.DalilQayrawan.Hindawi75730863
+#META# Tags: history
+#META# ID: 75730863
+#META# Title: دليل القيروان
+#META# AuthorID: 82405281
+#META# Author: صالح سويسي القيرواني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

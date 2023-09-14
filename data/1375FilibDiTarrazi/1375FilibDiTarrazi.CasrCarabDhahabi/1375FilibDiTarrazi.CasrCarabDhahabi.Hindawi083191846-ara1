@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375FilibDiTarrazi.CasrCarabDhahabi.Hindawi83191846",
-    "BookCats": "history",
-    "BookID": "83191846",
-    "BookTitle": "عصر العرب الذهبي",
-    "AuthorID": "47597385",
-    "AuthorNam": "فيليب دي طرازي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375FilibDiTarrazi.CasrCarabDhahabi.Hindawi83191846
+#META# Tags: history
+#META# ID: 83191846
+#META# Title: عصر العرب الذهبي
+#META# AuthorID: 47597385
+#META# Author: فيليب دي طرازي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

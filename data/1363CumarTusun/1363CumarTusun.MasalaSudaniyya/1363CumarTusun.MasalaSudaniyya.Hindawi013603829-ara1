@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1363CumarTusun.MasalaSudaniyya.Hindawi13603829",
-    "BookCats": "history",
-    "BookID": "13603829",
-    "BookTitle": "المسألة السودانية",
-    "AuthorID": "48305702",
-    "AuthorNam": "عمر طوسون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1363CumarTusun.MasalaSudaniyya.Hindawi13603829
+#META# Tags: history
+#META# ID: 13603829
+#META# Title: المسألة السودانية
+#META# AuthorID: 48305702
+#META# Author: عمر طوسون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

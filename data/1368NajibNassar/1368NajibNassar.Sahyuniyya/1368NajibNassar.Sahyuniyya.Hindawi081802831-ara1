@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368NajibNassar.Sahyuniyya.Hindawi81802831",
-    "BookCats": "history",
-    "BookID": "81802831",
-    "BookTitle": "الصهيونية: ملخص تاريخها، غايتها وامتدادها حتى سنة ١٩٠٥م",
-    "AuthorID": "90495097",
-    "AuthorNam": "نجيب نصَّار",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368NajibNassar.Sahyuniyya.Hindawi81802831
+#META# Tags: history
+#META# ID: 81802831
+#META# Title: الصهيونية: ملخص تاريخها، غايتها وامتدادها حتى سنة ١٩٠٥م
+#META# AuthorID: 90495097
+#META# Author: نجيب نصَّار
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

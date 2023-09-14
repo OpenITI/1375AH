@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AminRihani.MakariWaKahin.Hindawi53626279",
-    "BookCats": "novels",
-    "BookID": "53626279",
-    "BookTitle": "المكاري والكاهن",
-    "AuthorID": "93831791",
-    "AuthorNam": "أمين الريحاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AminRihani.MakariWaKahin.Hindawi53626279
+#META# Tags: novels
+#META# ID: 53626279
+#META# Title: المكاري والكاهن
+#META# AuthorID: 93831791
+#META# Author: أمين الريحاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

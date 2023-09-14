@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IlyasAbuShabaka.CummalSalihun.Hindawi68690597",
-    "BookCats": "novels",
-    "BookID": "68690597",
-    "BookTitle": "العمال الصالحون",
-    "AuthorID": "95147246",
-    "AuthorNam": "إلياس أبو شبكة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366IlyasAbuShabaka.CummalSalihun.Hindawi68690597
+#META# Tags: novels
+#META# ID: 68690597
+#META# Title: العمال الصالحون
+#META# AuthorID: 95147246
+#META# Author: إلياس أبو شبكة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

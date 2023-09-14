@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372MuhammadLutfiJumca.TarikhFalasifatIslam.Hindawi40948193",
-    "BookCats": "philosophy :: history",
-    "BookID": "40948193",
-    "BookTitle": "تاريخ فلاسفة الإسلام: دراسة شاملة عن حياتهم وأعمالهم ونقد تحليلي عن آرائهم الفلسفية",
-    "AuthorID": "72703631",
-    "AuthorNam": "محمد لطفي جمعة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372MuhammadLutfiJumca.TarikhFalasifatIslam.Hindawi40948193
+#META# Tags: philosophy :: history
+#META# ID: 40948193
+#META# Title: تاريخ فلاسفة الإسلام: دراسة شاملة عن حياتهم وأعمالهم ونقد تحليلي عن آرائهم الفلسفية
+#META# AuthorID: 72703631
+#META# Author: محمد لطفي جمعة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

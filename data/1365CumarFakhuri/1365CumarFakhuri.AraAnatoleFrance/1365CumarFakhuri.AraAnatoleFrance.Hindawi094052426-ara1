@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1365CumarFakhuri.AraAnatoleFrance.Hindawi94052426",
-    "BookCats": "literature",
-    "BookID": "94052426",
-    "BookTitle": "آراء أناتول فرانس",
-    "AuthorID": "27383626",
-    "AuthorNam": "عمر فاخوري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1365CumarFakhuri.AraAnatoleFrance.Hindawi94052426
+#META# Tags: literature
+#META# ID: 94052426
+#META# Title: آراء أناتول فرانس
+#META# AuthorID: 27383626
+#META# Author: عمر فاخوري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

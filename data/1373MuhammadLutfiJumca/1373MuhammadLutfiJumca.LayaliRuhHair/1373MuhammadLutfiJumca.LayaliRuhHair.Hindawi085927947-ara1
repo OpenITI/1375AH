@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373MuhammadLutfiJumca.LayaliRuhHair.Hindawi85927947",
-    "BookCats": "literature",
-    "BookID": "85927947",
-    "BookTitle": "ليالي الروح الحائر",
-    "AuthorID": "72703631",
-    "AuthorNam": "محمد لطفي جمعة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373MuhammadLutfiJumca.LayaliRuhHair.Hindawi85927947
+#META# Tags: literature
+#META# ID: 85927947
+#META# Title: ليالي الروح الحائر
+#META# AuthorID: 72703631
+#META# Author: محمد لطفي جمعة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

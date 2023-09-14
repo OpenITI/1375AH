@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1353AbuQasimShabi.Mudhakkirat.Hindawi75140946",
-    "BookCats": "biographies",
-    "BookID": "75140946",
-    "BookTitle": "مذكرات",
-    "AuthorID": "16361353",
-    "AuthorNam": "أبو القاسم الشابي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1353AbuQasimShabi.Mudhakkirat.Hindawi75140946
+#META# Tags: biographies
+#META# ID: 75140946
+#META# Title: مذكرات
+#META# AuthorID: 16361353
+#META# Author: أبو القاسم الشابي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

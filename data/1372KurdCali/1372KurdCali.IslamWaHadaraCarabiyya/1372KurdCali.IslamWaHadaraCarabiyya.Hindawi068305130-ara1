@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372KurdCali.IslamWaHadaraCarabiyya.Hindawi68305130",
-    "BookCats": "history",
-    "BookID": "68305130",
-    "BookTitle": "الإسلام والحضارة العربية",
-    "AuthorID": "59604649",
-    "AuthorNam": "محمد كرد علي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372KurdCali.IslamWaHadaraCarabiyya.Hindawi68305130
+#META# Tags: history
+#META# ID: 68305130
+#META# Title: الإسلام والحضارة العربية
+#META# AuthorID: 59604649
+#META# Author: محمد كرد علي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

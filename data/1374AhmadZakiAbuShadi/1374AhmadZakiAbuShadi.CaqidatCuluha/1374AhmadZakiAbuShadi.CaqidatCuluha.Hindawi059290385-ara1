@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.CaqidatCuluha.Hindawi59290385",
-    "BookCats": "philosophy",
-    "BookID": "59290385",
-    "BookTitle": "عقيدة الألوهة",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.CaqidatCuluha.Hindawi59290385
+#META# Tags: philosophy
+#META# ID: 59290385
+#META# Title: عقيدة الألوهة
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

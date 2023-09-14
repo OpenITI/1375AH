@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362MuhammadKamilHajjaj.BalaghatGharb.Hindawi25397371",
-    "BookCats": "literature",
-    "BookID": "25397371",
-    "BookTitle": "بلاغة الغرب: أحسن المحاسن وغرر الدرر من قريض الغرب ونثره",
-    "AuthorID": "51425862",
-    "AuthorNam": "محمد كامل حجاج",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362MuhammadKamilHajjaj.BalaghatGharb.Hindawi25397371
+#META# Tags: literature
+#META# ID: 25397371
+#META# Title: بلاغة الغرب: أحسن المحاسن وغرر الدرر من قريض الغرب ونثره
+#META# AuthorID: 51425862
+#META# Author: محمد كامل حجاج
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

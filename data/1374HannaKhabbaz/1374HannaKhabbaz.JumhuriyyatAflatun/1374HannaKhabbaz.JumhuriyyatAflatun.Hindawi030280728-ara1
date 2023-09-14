@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374HannaKhabbaz.JumhuriyyatAflatun.Hindawi30280728",
-    "BookCats": "politics :: philosophy",
-    "BookID": "30280728",
-    "BookTitle": "جمهورية أفلاطون",
-    "AuthorID": "74625860",
-    "AuthorNam": "أفلاطون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "95361607",
-    "TranslNam": "حنا خباز",
-    "BookRel": "0001Plato.Politeia (TRANSL)"
-}
-
+#META# URI: 1374HannaKhabbaz.JumhuriyyatAflatun.Hindawi30280728
+#META# Tags: politics :: philosophy
+#META# ID: 30280728
+#META# Title: جمهورية أفلاطون
+#META# AuthorID: 74625860
+#META# Author: أفلاطون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 95361607
+#META# Translator: حنا خباز
+#META# Related_books: 0001Plato.Politeia (TRANSL)
 
 #META#Header#End#
 

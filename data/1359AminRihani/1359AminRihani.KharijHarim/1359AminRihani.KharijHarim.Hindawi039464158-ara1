@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AminRihani.KharijHarim.Hindawi39464158",
-    "BookCats": "novels",
-    "BookID": "39464158",
-    "BookTitle": "خارج الحريم",
-    "AuthorID": "93831791",
-    "AuthorNam": "أمين الريحاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AminRihani.KharijHarim.Hindawi39464158
+#META# Tags: novels
+#META# ID: 39464158
+#META# Title: خارج الحريم
+#META# AuthorID: 93831791
+#META# Author: أمين الريحاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

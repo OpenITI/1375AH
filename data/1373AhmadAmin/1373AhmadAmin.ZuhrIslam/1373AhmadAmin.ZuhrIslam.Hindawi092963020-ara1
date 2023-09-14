@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373AhmadAmin.ZuhrIslam.Hindawi92963020",
-    "BookCats": "history",
-    "BookID": "92963020",
-    "BookTitle": "ظهر الإسلام",
-    "AuthorID": "20953090",
-    "AuthorNam": "أحمد أمين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373AhmadAmin.ZuhrIslam.Hindawi92963020
+#META# Tags: history
+#META# ID: 92963020
+#META# Title: ظهر الإسلام
+#META# AuthorID: 20953090
+#META# Author: أحمد أمين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

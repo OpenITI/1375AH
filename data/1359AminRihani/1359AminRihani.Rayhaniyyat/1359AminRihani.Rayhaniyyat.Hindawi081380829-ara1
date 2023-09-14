@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AminRihani.Rayhaniyyat.Hindawi81380829",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "81380829",
-    "BookTitle": "الريحانيات",
-    "AuthorID": "93831791",
-    "AuthorNam": "أمين الريحاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AminRihani.Rayhaniyyat.Hindawi81380829
+#META# Tags: literary.criticism :: literature
+#META# ID: 81380829
+#META# Title: الريحانيات
+#META# AuthorID: 93831791
+#META# Author: أمين الريحاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

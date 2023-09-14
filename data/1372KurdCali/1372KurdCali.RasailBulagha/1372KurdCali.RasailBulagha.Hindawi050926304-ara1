@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372KurdCali.RasailBulagha.Hindawi50926304",
-    "BookCats": "literature",
-    "BookID": "50926304",
-    "BookTitle": "رسائل البلغاء",
-    "AuthorID": "59604649",
-    "AuthorNam": "محمد كرد علي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372KurdCali.RasailBulagha.Hindawi50926304
+#META# Tags: literature
+#META# ID: 50926304
+#META# Title: رسائل البلغاء
+#META# AuthorID: 59604649
+#META# Author: محمد كرد علي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

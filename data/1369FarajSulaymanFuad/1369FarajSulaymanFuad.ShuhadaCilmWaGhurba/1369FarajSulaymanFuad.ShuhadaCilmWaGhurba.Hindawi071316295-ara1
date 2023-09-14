@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1369FarajSulaymanFuad.ShuhadaCilmWaGhurba.Hindawi71316295",
-    "BookCats": "history :: literature",
-    "BookID": "71316295",
-    "BookTitle": "ذكرى شهداء العلم والغربة",
-    "AuthorID": "49517486",
-    "AuthorNam": "فرج سليمان فؤاد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1369FarajSulaymanFuad.ShuhadaCilmWaGhurba.Hindawi71316295
+#META# Tags: history :: literature
+#META# ID: 71316295
+#META# Title: ذكرى شهداء العلم والغربة
+#META# AuthorID: 49517486
+#META# Author: فرج سليمان فؤاد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

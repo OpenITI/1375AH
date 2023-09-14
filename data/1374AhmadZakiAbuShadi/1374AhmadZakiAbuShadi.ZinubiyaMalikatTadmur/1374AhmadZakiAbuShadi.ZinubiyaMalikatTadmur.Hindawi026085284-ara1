@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.ZinubiyaMalikatTadmur.Hindawi26085284",
-    "BookCats": "plays",
-    "BookID": "26085284",
-    "BookTitle": "زينوبيا ملكة تدمر: أوبرا تاريخية كبرى ذات أربعة فصول",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.ZinubiyaMalikatTadmur.Hindawi26085284
+#META# Tags: plays
+#META# ID: 26085284
+#META# Title: زينوبيا ملكة تدمر: أوبرا تاريخية كبرى ذات أربعة فصول
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

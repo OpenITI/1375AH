@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370SalimQubcayn.MamlakatJahannamWaKhamr.Hindawi90504631",
-    "BookCats": "literature",
-    "BookID": "90504631",
-    "BookTitle": "مملكة جهنم والخمر",
-    "AuthorID": "70462502",
-    "AuthorNam": "ليو تولستوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "47253636",
-    "TranslNam": "سليم قبعين",
-    "BookRel": "1328LeoTolstoy (TRANSL)"
-}
-
+#META# URI: 1370SalimQubcayn.MamlakatJahannamWaKhamr.Hindawi90504631
+#META# Tags: literature
+#META# ID: 90504631
+#META# Title: مملكة جهنم والخمر
+#META# AuthorID: 70462502
+#META# Author: ليو تولستوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 47253636
+#META# Translator: سليم قبعين
+#META# Related_books: 1328LeoTolstoy (TRANSL)
 
 #META#Header#End#
 

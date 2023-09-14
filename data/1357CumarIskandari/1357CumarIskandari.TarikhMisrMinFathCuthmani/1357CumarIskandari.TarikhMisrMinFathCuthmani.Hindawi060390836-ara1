@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1357CumarIskandari.TarikhMisrMinFathCuthmani.Hindawi60390836",
-    "BookCats": "history",
-    "BookID": "60390836",
-    "BookTitle": "تاريخ مصر من الفتح العثماني إلى قُبيل الوقت الحاضر",
-    "AuthorID": "15830979 :: 60304038",
-    "AuthorNam": "عمر الإسكندري :: سليم حسن",
-    "EditorID": "37026274",
-    "EditorNam": "أ. ج. سفدج",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1357CumarIskandari.TarikhMisrMinFathCuthmani.Hindawi60390836
+#META# Tags: history
+#META# ID: 60390836
+#META# Title: تاريخ مصر من الفتح العثماني إلى قُبيل الوقت الحاضر
+#META# AuthorID: 15830979 :: 60304038
+#META# Author: عمر الإسكندري :: سليم حسن
+#META# EditorID: 37026274
+#META# Editor: أ. ج. سفدج
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

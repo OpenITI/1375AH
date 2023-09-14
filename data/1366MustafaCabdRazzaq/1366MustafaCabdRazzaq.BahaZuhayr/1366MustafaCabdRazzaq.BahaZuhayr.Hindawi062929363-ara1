@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366MustafaCabdRazzaq.BahaZuhayr.Hindawi62929363",
-    "BookCats": "literary.criticism",
-    "BookID": "62929363",
-    "BookTitle": "البهاء زهير",
-    "AuthorID": "58628571",
-    "AuthorNam": "مصطفى عبد الرازق",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366MustafaCabdRazzaq.BahaZuhayr.Hindawi62929363
+#META# Tags: literary.criticism
+#META# ID: 62929363
+#META# Title: البهاء زهير
+#META# AuthorID: 58628571
+#META# Author: مصطفى عبد الرازق
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370SalimQabcin.MadhhabTulstuy.Hindawi31618696",
-    "BookCats": "biographies",
-    "BookID": "31618696",
-    "BookTitle": "مذهب تولستوي",
-    "AuthorID": "47253636",
-    "AuthorNam": "سليم قبعين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370SalimQabcin.MadhhabTulstuy.Hindawi31618696
+#META# Tags: biographies
+#META# ID: 31618696
+#META# Title: مذهب تولستوي
+#META# AuthorID: 47253636
+#META# Author: سليم قبعين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374SalahLabaki.MinAcmaqJabal.Hindawi84724258",
-    "BookCats": "literature",
-    "BookID": "84724258",
-    "BookTitle": "من أعماق الجبل",
-    "AuthorID": "97074095",
-    "AuthorNam": "صلاح لبكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374SalahLabaki.MinAcmaqJabal.Hindawi84724258
+#META# Tags: literature
+#META# ID: 84724258
+#META# Title: من أعماق الجبل
+#META# AuthorID: 97074095
+#META# Author: صلاح لبكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

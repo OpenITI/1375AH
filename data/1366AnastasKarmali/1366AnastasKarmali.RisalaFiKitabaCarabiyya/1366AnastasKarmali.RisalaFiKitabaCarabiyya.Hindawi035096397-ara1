@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366AnastasKarmali.RisalaFiKitabaCarabiyya.Hindawi35096397",
-    "BookCats": "linguistics",
-    "BookID": "35096397",
-    "BookTitle": "رسالة في الكتابة العربية المنقحة",
-    "AuthorID": "47937959",
-    "AuthorNam": "أنستاس ماري الكرملي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366AnastasKarmali.RisalaFiKitabaCarabiyya.Hindawi35096397
+#META# Tags: linguistics
+#META# ID: 35096397
+#META# Title: رسالة في الكتابة العربية المنقحة
+#META# AuthorID: 47937959
+#META# Author: أنستاس ماري الكرملي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

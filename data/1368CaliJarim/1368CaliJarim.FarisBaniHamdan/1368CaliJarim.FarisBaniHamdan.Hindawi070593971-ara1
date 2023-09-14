@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368CaliJarim.FarisBaniHamdan.Hindawi70593971",
-    "BookCats": "novels",
-    "BookID": "70593971",
-    "BookTitle": "فارس بني حمدان",
-    "AuthorID": "92581481",
-    "AuthorNam": "علي الجارم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368CaliJarim.FarisBaniHamdan.Hindawi70593971
+#META# Tags: novels
+#META# ID: 70593971
+#META# Title: فارس بني حمدان
+#META# AuthorID: 92581481
+#META# Author: علي الجارم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

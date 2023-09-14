@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373MuhammadLutfiJumca.ThawratIslamWaBatalAnbiya.Hindawi30353837",
-    "BookCats": "history",
-    "BookID": "30353837",
-    "BookTitle": "ثورة الإسلام وبطل الأنبياء: أبو القاسم محمد بن عبد الله",
-    "AuthorID": "72703631",
-    "AuthorNam": "محمد لطفي جمعة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373MuhammadLutfiJumca.ThawratIslamWaBatalAnbiya.Hindawi30353837
+#META# Tags: history
+#META# ID: 30353837
+#META# Title: ثورة الإسلام وبطل الأنبياء: أبو القاسم محمد بن عبد الله
+#META# AuthorID: 72703631
+#META# Author: محمد لطفي جمعة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

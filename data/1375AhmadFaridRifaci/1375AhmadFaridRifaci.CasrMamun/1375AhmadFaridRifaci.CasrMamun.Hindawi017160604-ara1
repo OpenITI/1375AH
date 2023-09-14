@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375AhmadFaridRifaci.CasrMamun.Hindawi17160604",
-    "BookCats": "history",
-    "BookID": "17160604",
-    "BookTitle": "عصر المأمون",
-    "AuthorID": "57172474",
-    "AuthorNam": "أحمد فريد رفاعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375AhmadFaridRifaci.CasrMamun.Hindawi17160604
+#META# Tags: history
+#META# ID: 17160604
+#META# Title: عصر المأمون
+#META# AuthorID: 57172474
+#META# Author: أحمد فريد رفاعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

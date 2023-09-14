@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372MuhammadLutfiJumca.TarikhMabadiIqtisadiyya.Hindawi91480861",
-    "BookCats": "economics",
-    "BookID": "91480861",
-    "BookTitle": "محاضرات في تاريخ المبادئ الاقتصادية والنظامات الأوروبية",
-    "AuthorID": "72703631",
-    "AuthorNam": "محمد لطفي جمعة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372MuhammadLutfiJumca.TarikhMabadiIqtisadiyya.Hindawi91480861
+#META# Tags: economics
+#META# ID: 91480861
+#META# Title: محاضرات في تاريخ المبادئ الاقتصادية والنظامات الأوروبية
+#META# AuthorID: 72703631
+#META# Author: محمد لطفي جمعة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

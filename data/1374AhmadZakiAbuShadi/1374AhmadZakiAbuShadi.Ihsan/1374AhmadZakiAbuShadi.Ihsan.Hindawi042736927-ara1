@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374AhmadZakiAbuShadi.Ihsan.Hindawi42736927",
-    "BookCats": "novels",
-    "BookID": "42736927",
-    "BookTitle": "إحسان: مأساة مصرية تلحينية",
-    "AuthorID": "63709470",
-    "AuthorNam": "أحمد زكي أبو شادي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374AhmadZakiAbuShadi.Ihsan.Hindawi42736927
+#META# Tags: novels
+#META# ID: 42736927
+#META# Title: إحسان: مأساة مصرية تلحينية
+#META# AuthorID: 63709470
+#META# Author: أحمد زكي أبو شادي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

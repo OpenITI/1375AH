@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1364AhmadDayf.MuqaddimaLiDirasatBalaghatCarab.Hindawi93813583",
-    "BookCats": "literature",
-    "BookID": "93813583",
-    "BookTitle": "مقدمة لدراسة بلاغة العرب",
-    "AuthorID": "30809596",
-    "AuthorNam": "أحمد ضيف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1364AhmadDayf.MuqaddimaLiDirasatBalaghatCarab.Hindawi93813583
+#META# Tags: literature
+#META# ID: 93813583
+#META# Title: مقدمة لدراسة بلاغة العرب
+#META# AuthorID: 30809596
+#META# Author: أحمد ضيف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

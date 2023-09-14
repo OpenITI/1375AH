@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373WadicAbuFadil.MutawaliSalih.Hindawi29392697",
-    "BookCats": "novels :: literature",
-    "BookID": "29392697",
-    "BookTitle": "المتوالي الصالح",
-    "AuthorID": "36970358",
-    "AuthorNam": "وديع أبو فاضل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373WadicAbuFadil.MutawaliSalih.Hindawi29392697
+#META# Tags: novels :: literature
+#META# ID: 29392697
+#META# Title: المتوالي الصالح
+#META# AuthorID: 36970358
+#META# Author: وديع أبو فاضل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

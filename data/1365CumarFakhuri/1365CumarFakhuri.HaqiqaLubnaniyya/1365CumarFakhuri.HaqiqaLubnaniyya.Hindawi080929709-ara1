@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1365CumarFakhuri.HaqiqaLubnaniyya.Hindawi80929709",
-    "BookCats": "literature",
-    "BookID": "80929709",
-    "BookTitle": "الحقيقة اللبنانية: خواطر وأحاديث",
-    "AuthorID": "27383626",
-    "AuthorNam": "عمر فاخوري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1365CumarFakhuri.HaqiqaLubnaniyya.Hindawi80929709
+#META# Tags: literature
+#META# ID: 80929709
+#META# Title: الحقيقة اللبنانية: خواطر وأحاديث
+#META# AuthorID: 27383626
+#META# Author: عمر فاخوري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

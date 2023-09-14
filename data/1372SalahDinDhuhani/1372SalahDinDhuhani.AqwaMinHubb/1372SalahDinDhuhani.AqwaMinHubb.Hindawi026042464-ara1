@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372SalahDinDhuhani.AqwaMinHubb.Hindawi26042464",
-    "BookCats": "novels",
-    "BookID": "26042464",
-    "BookTitle": "أقوى من الحب",
-    "AuthorID": "40816042",
-    "AuthorNam": "صلاح الدين ذهني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372SalahDinDhuhani.AqwaMinHubb.Hindawi26042464
+#META# Tags: novels
+#META# ID: 26042464
+#META# Title: أقوى من الحب
+#META# AuthorID: 40816042
+#META# Author: صلاح الدين ذهني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

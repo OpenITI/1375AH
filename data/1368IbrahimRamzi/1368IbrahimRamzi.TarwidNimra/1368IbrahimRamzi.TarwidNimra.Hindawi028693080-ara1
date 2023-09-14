@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.TarwidNimra.Hindawi28693080",
-    "BookCats": "plays",
-    "BookID": "28693080",
-    "BookTitle": "ترويض النمرة",
-    "AuthorID": "51483537",
-    "AuthorNam": "ويليام شكسبير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "27535259",
-    "TranslNam": "إبراهيم رمزي",
-    "BookRel": "1024WilliamShakespeare.TamingOfShrew (TRANSL)"
-}
-
+#META# URI: 1368IbrahimRamzi.TarwidNimra.Hindawi28693080
+#META# Tags: plays
+#META# ID: 28693080
+#META# Title: ترويض النمرة
+#META# AuthorID: 51483537
+#META# Author: ويليام شكسبير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 27535259
+#META# Translator: إبراهيم رمزي
+#META# Related_books: 1024WilliamShakespeare.TamingOfShrew (TRANSL)
 
 #META#Header#End#
 

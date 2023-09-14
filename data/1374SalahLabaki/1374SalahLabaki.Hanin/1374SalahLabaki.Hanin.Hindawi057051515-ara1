@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1374SalahLabaki.Hanin.Hindawi57051515",
-    "BookCats": "poetry",
-    "BookID": "57051515",
-    "BookTitle": "حنين",
-    "AuthorID": "97074095",
-    "AuthorNam": "صلاح لبكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1374SalahLabaki.Hanin.Hindawi57051515
+#META# Tags: poetry
+#META# ID: 57051515
+#META# Title: حنين
+#META# AuthorID: 97074095
+#META# Author: صلاح لبكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

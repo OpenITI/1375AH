@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373NiqulaHaddad.WadacanAyyuhaMashriq.Hindawi81713528",
-    "BookCats": "novels",
-    "BookID": "81713528",
-    "BookTitle": "وداعًا أيها الشرق",
-    "AuthorID": "60483937",
-    "AuthorNam": "نقولا حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373NiqulaHaddad.WadacanAyyuhaMashriq.Hindawi81713528
+#META# Tags: novels
+#META# ID: 81713528
+#META# Title: وداعًا أيها الشرق
+#META# AuthorID: 60483937
+#META# Author: نقولا حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

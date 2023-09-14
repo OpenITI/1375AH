@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366AnastasKarmali.KhulasatTarikhCiraq.Hindawi46069628",
-    "BookCats": "history",
-    "BookID": "46069628",
-    "BookTitle": "خلاصة تاريخ العراق: منذ نشوئه إلى يومنا هذا",
-    "AuthorID": "47937959",
-    "AuthorNam": "أنستاس ماري الكرملي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366AnastasKarmali.KhulasatTarikhCiraq.Hindawi46069628
+#META# Tags: history
+#META# ID: 46069628
+#META# Title: خلاصة تاريخ العراق: منذ نشوئه إلى يومنا هذا
+#META# AuthorID: 47937959
+#META# Author: أنستاس ماري الكرملي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

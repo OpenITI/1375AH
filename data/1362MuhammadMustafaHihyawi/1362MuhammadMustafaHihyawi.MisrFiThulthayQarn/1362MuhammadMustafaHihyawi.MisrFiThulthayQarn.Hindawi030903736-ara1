@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362MuhammadMustafaHihyawi.MisrFiThulthayQarn.Hindawi30903736",
-    "BookCats": "history",
-    "BookID": "30903736",
-    "BookTitle": "مصر في ثلثي قرن",
-    "AuthorID": "35186285",
-    "AuthorNam": "محمد مصطفى الههياوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362MuhammadMustafaHihyawi.MisrFiThulthayQarn.Hindawi30903736
+#META# Tags: history
+#META# ID: 30903736
+#META# Title: مصر في ثلثي قرن
+#META# AuthorID: 35186285
+#META# Author: محمد مصطفى الههياوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

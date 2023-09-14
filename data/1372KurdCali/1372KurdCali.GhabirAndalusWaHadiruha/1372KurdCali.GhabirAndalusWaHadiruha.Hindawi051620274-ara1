@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372KurdCali.GhabirAndalusWaHadiruha.Hindawi51620274",
-    "BookCats": "history",
-    "BookID": "51620274",
-    "BookTitle": "غابر الأندلس وحاضرها",
-    "AuthorID": "59604649",
-    "AuthorNam": "محمد كرد علي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372KurdCali.GhabirAndalusWaHadiruha.Hindawi51620274
+#META# Tags: history
+#META# ID: 51620274
+#META# Title: غابر الأندلس وحاضرها
+#META# AuthorID: 59604649
+#META# Author: محمد كرد علي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

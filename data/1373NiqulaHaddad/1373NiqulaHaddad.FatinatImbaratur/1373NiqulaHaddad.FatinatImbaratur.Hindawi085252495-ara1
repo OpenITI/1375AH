@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373NiqulaHaddad.FatinatImbaratur.Hindawi85252495",
-    "BookCats": "novels",
-    "BookID": "85252495",
-    "BookTitle": "فاتنة الإمبراطور: فرانسوا جوزيف إمبراطور النمسا السابق وعشيقته كاترين شراط",
-    "AuthorID": "60483937",
-    "AuthorNam": "نقولا حداد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373NiqulaHaddad.FatinatImbaratur.Hindawi85252495
+#META# Tags: novels
+#META# ID: 85252495
+#META# Title: فاتنة الإمبراطور: فرانسوا جوزيف إمبراطور النمسا السابق وعشيقته كاترين شراط
+#META# AuthorID: 60483937
+#META# Author: نقولا حداد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

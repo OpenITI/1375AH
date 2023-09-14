@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362MuhammadKamilHajjaj.KhawatirKhayal.Hindawi80480207",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "80480207",
-    "BookTitle": "خواطر الخيال وإملاء الوجدان",
-    "AuthorID": "51425862",
-    "AuthorNam": "محمد كامل حجاج",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362MuhammadKamilHajjaj.KhawatirKhayal.Hindawi80480207
+#META# Tags: literary.criticism :: literature
+#META# ID: 80480207
+#META# Title: خواطر الخيال وإملاء الوجدان
+#META# AuthorID: 51425862
+#META# Author: محمد كامل حجاج
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

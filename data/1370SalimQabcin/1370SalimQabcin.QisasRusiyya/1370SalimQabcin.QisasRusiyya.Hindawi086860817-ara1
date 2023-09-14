@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370SalimQabcin.QisasRusiyya.Hindawi86860817",
-    "BookCats": "novels",
-    "BookID": "86860817",
-    "BookTitle": "قصص روسية",
-    "AuthorID": "47253636",
-    "AuthorNam": "سليم قبعين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370SalimQabcin.QisasRusiyya.Hindawi86860817
+#META# Tags: novels
+#META# ID: 86860817
+#META# Title: قصص روسية
+#META# AuthorID: 47253636
+#META# Author: سليم قبعين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362CabdCazizBishri.Mukhtar.Hindawi40505807",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "40505807",
-    "BookTitle": "المختار",
-    "AuthorID": "82863939",
-    "AuthorNam": "عبد العزيز البشري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362CabdCazizBishri.Mukhtar.Hindawi40505807
+#META# Tags: literary.criticism :: literature
+#META# ID: 40505807
+#META# Title: المختار
+#META# AuthorID: 82863939
+#META# Author: عبد العزيز البشري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

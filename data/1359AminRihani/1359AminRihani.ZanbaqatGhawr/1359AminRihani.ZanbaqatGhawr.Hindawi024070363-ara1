@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359AminRihani.ZanbaqatGhawr.Hindawi24070363",
-    "BookCats": "novels",
-    "BookID": "24070363",
-    "BookTitle": "زنبقة الغور",
-    "AuthorID": "93831791",
-    "AuthorNam": "أمين الريحاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359AminRihani.ZanbaqatGhawr.Hindawi24070363
+#META# Tags: novels
+#META# ID: 24070363
+#META# Title: زنبقة الغور
+#META# AuthorID: 93831791
+#META# Author: أمين الريحاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

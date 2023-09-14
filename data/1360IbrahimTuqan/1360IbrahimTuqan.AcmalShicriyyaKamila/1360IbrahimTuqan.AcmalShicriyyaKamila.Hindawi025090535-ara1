@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360IbrahimTuqan.AcmalShicriyyaKamila.Hindawi25090535",
-    "BookCats": "poetry",
-    "BookID": "25090535",
-    "BookTitle": "الأعمال الشعرية الكاملة",
-    "AuthorID": "39039640",
-    "AuthorNam": "إبراهيم طوقان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360IbrahimTuqan.AcmalShicriyyaKamila.Hindawi25090535
+#META# Tags: poetry
+#META# ID: 25090535
+#META# Title: الأعمال الشعرية الكاملة
+#META# AuthorID: 39039640
+#META# Author: إبراهيم طوقان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

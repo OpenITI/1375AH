@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375CazizKhanki.DhikraMiawiyyaLiWaqicarNazib.Hindawi60791929",
-    "BookCats": "history",
-    "BookID": "60791929",
-    "BookTitle": "الذكرى المئوية لواقعة نزيب: ٢٤ يونيو سنة ١٨٣٩–٢٤ يونيو سنة ١٩٣٩‎",
-    "AuthorID": "92842817",
-    "AuthorNam": "عزيز خانكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375CazizKhanki.DhikraMiawiyyaLiWaqicarNazib.Hindawi60791929
+#META# Tags: history
+#META# ID: 60791929
+#META# Title: الذكرى المئوية لواقعة نزيب: ٢٤ يونيو سنة ١٨٣٩–٢٤ يونيو سنة ١٩٣٩‎
+#META# AuthorID: 92842817
+#META# Author: عزيز خانكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

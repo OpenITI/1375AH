@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IlyasAbuShabaka.MaridSamit.Hindawi36314957",
-    "BookCats": "poetry",
-    "BookID": "36314957",
-    "BookTitle": "المريض الصامت",
-    "AuthorID": "95147246",
-    "AuthorNam": "إلياس أبو شبكة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366IlyasAbuShabaka.MaridSamit.Hindawi36314957
+#META# Tags: poetry
+#META# ID: 36314957
+#META# Title: المريض الصامت
+#META# AuthorID: 95147246
+#META# Author: إلياس أبو شبكة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

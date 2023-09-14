@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1356ShukriKhuri.MururFiArdHana.Hindawi82731791",
-    "BookCats": "literature",
-    "BookID": "82731791",
-    "BookTitle": "مرور في أرض الهناء ونبأ من عالم البقاء",
-    "AuthorID": "40482505",
-    "AuthorNam": "شكري الخوري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1356ShukriKhuri.MururFiArdHana.Hindawi82731791
+#META# Tags: literature
+#META# ID: 82731791
+#META# Title: مرور في أرض الهناء ونبأ من عالم البقاء
+#META# AuthorID: 40482505
+#META# Author: شكري الخوري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

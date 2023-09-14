@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360CaliAhmadShukri.MuassisMisrHaditha.Hindawi83579473",
-    "BookCats": "history",
-    "BookID": "83579473",
-    "BookTitle": "الاتجاه السياسي لمصر في عهد محمد علي: مؤسس مصر الحديثة",
-    "AuthorID": "19138468",
-    "AuthorNam": "هنري دودويل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "15749405 :: 39291860",
-    "TranslNam": "أحمد محمد عبد الخالق :: علي أحمد شكري",
-    "BookRel": "1365HenryDodwell.FounderOfModernEgypt (TRANSL)"
-}
-
+#META# URI: 1360CaliAhmadShukri.MuassisMisrHaditha.Hindawi83579473
+#META# Tags: history
+#META# ID: 83579473
+#META# Title: الاتجاه السياسي لمصر في عهد محمد علي: مؤسس مصر الحديثة
+#META# AuthorID: 19138468
+#META# Author: هنري دودويل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 15749405 :: 39291860
+#META# Translator: أحمد محمد عبد الخالق :: علي أحمد شكري
+#META# Related_books: 1365HenryDodwell.FounderOfModernEgypt (TRANSL)
 
 #META#Header#End#
 

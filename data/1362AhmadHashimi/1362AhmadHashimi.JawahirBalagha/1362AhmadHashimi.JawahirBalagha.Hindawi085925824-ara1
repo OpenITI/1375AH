@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1362AhmadHashimi.JawahirBalagha.Hindawi85925824",
-    "BookCats": "linguistics",
-    "BookID": "85925824",
-    "BookTitle": "جواهر البلاغة: في المعاني والبيان والبديع",
-    "AuthorID": "14975162",
-    "AuthorNam": "أحمد الهاشمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1362AhmadHashimi.JawahirBalagha.Hindawi85925824
+#META# Tags: linguistics
+#META# ID: 85925824
+#META# Title: جواهر البلاغة: في المعاني والبيان والبديع
+#META# AuthorID: 14975162
+#META# Author: أحمد الهاشمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

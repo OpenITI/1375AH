@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375ZuhayrMirza.Kafir.Hindawi59482591",
-    "BookCats": "poetry",
-    "BookID": "59482591",
-    "BookTitle": "كافر: وحيُ شيطانٍ مريد",
-    "AuthorID": "83026182",
-    "AuthorNam": "زهير ميرزا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375ZuhayrMirza.Kafir.Hindawi59482591
+#META# Tags: poetry
+#META# ID: 59482591
+#META# Title: كافر: وحيُ شيطانٍ مريد
+#META# AuthorID: 83026182
+#META# Author: زهير ميرزا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1360AbuCabdAllahZanjani.TarikhQuran.Hindawi91931968",
-    "BookCats": "history",
-    "BookID": "91931968",
-    "BookTitle": "تاريخ القرآن",
-    "AuthorID": "19731609",
-    "AuthorNam": "أبو عبد الله الزنجاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1360AbuCabdAllahZanjani.TarikhQuran.Hindawi91931968
+#META# Tags: history
+#META# ID: 91931968
+#META# Title: تاريخ القرآن
+#META# AuthorID: 19731609
+#META# Author: أبو عبد الله الزنجاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370CabdCazizFahmi.Diwan.Hindawi17957071",
-    "BookCats": "poetry",
-    "BookID": "17957071",
-    "BookTitle": "ديوان عزيز",
-    "AuthorID": "79508351 :: 59624258",
-    "AuthorNam": "عزيز فهمي :: طه حسين #تقديم#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370CabdCazizFahmi.Diwan.Hindawi17957071
+#META# Tags: poetry
+#META# ID: 17957071
+#META# Title: ديوان عزيز
+#META# AuthorID: 79508351 :: 59624258
+#META# Author: عزيز فهمي :: طه حسين #تقديم#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

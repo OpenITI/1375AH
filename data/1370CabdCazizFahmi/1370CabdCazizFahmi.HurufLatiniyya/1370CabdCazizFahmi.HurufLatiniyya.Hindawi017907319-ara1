@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370CabdCazizFahmi.HurufLatiniyya.Hindawi17907319",
-    "BookCats": "linguistics",
-    "BookID": "17907319",
-    "BookTitle": "الحروف اللاتينية لكتابة العربية",
-    "AuthorID": "64050857",
-    "AuthorNam": "عبد العزيز فهمي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370CabdCazizFahmi.HurufLatiniyya.Hindawi17907319
+#META# Tags: linguistics
+#META# ID: 17907319
+#META# Title: الحروف اللاتينية لكتابة العربية
+#META# AuthorID: 64050857
+#META# Author: عبد العزيز فهمي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

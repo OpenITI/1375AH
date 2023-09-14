@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373HabibZayyat.MaraFiJahiliyya.Hindawi49296385",
-    "BookCats": "history",
-    "BookID": "49296385",
-    "BookTitle": "المرأة في الجاهلية",
-    "AuthorID": "95747251",
-    "AuthorNam": "حبيب الزيات",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373HabibZayyat.MaraFiJahiliyya.Hindawi49296385
+#META# Tags: history
+#META# ID: 49296385
+#META# Title: المرأة في الجاهلية
+#META# AuthorID: 95747251
+#META# Author: حبيب الزيات
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

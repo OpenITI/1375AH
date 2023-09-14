@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1372IbrahimNaji.ShicrIrahimNaji.Hindawi60469752",
-    "BookCats": "poetry",
-    "BookID": "60469752",
-    "BookTitle": "شعر إبراهيم ناجي",
-    "AuthorID": "97571481",
-    "AuthorNam": "إبراهيم ناجي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1372IbrahimNaji.ShicrIrahimNaji.Hindawi60469752
+#META# Tags: poetry
+#META# ID: 60469752
+#META# Title: شعر إبراهيم ناجي
+#META# AuthorID: 97571481
+#META# Author: إبراهيم ناجي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

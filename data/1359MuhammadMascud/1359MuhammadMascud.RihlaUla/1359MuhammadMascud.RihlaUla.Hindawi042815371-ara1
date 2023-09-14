@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359MuhammadMascud.RihlaUla.Hindawi42815371",
-    "BookCats": "geography",
-    "BookID": "42815371",
-    "BookTitle": "الرحلة الأولى للبحث عن ينابيع البحر الأبيض: النيل الأبيض",
-    "AuthorID": "61359206",
-    "AuthorNam": "سليم قبودان",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "71413841",
-    "TranslNam": "محمد مسعود",
-    "BookRel": "1250SalimQabudan.PremierVoyage (TRANSL)"
-}
-
+#META# URI: 1359MuhammadMascud.RihlaUla.Hindawi42815371
+#META# Tags: geography
+#META# ID: 42815371
+#META# Title: الرحلة الأولى للبحث عن ينابيع البحر الأبيض: النيل الأبيض
+#META# AuthorID: 61359206
+#META# Author: سليم قبودان
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 71413841
+#META# Translator: محمد مسعود
+#META# Related_books: 1250SalimQabudan.PremierVoyage (TRANSL)
 
 #META#Header#End#
 

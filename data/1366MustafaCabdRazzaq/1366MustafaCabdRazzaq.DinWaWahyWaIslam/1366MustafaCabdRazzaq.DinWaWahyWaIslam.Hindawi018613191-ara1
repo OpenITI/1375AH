@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366MustafaCabdRazzaq.DinWaWahyWaIslam.Hindawi18613191",
-    "BookCats": "history",
-    "BookID": "18613191",
-    "BookTitle": "الدين والوحي والإسلام",
-    "AuthorID": "58628571",
-    "AuthorNam": "مصطفى عبد الرازق",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1366MustafaCabdRazzaq.DinWaWahyWaIslam.Hindawi18613191
+#META# Tags: history
+#META# ID: 18613191
+#META# Title: الدين والوحي والإسلام
+#META# AuthorID: 58628571
+#META# Author: مصطفى عبد الرازق
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

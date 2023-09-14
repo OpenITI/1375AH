@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1357YusufAsif.TarikhSalatinBaniCuthman.Hindawi92741931",
-    "BookCats": "history",
-    "BookID": "92741931",
-    "BookTitle": "تاريخ سلاطين بني عثمان",
-    "AuthorID": "19072415",
-    "AuthorNam": "عزتلو يوسف بك آصاف",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1357YusufAsif.TarikhSalatinBaniCuthman.Hindawi92741931
+#META# Tags: history
+#META# ID: 92741931
+#META# Title: تاريخ سلاطين بني عثمان
+#META# AuthorID: 19072415
+#META# Author: عزتلو يوسف بك آصاف
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimCabdQadirMazini.JarimatLordSaville.Hindawi37175297",
-    "BookCats": "literature",
-    "BookID": "37175297",
-    "BookTitle": "جريمة اللورد سافيل",
-    "AuthorID": "47419369",
-    "AuthorNam": "أوسكار وايلد",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "42571753",
-    "TranslNam": "إبراهيم عبد القادر المازني",
-    "BookRel": "1318OscarWilde.LordSavillesCrime (TRANSL)"
-}
-
+#META# URI: 1368IbrahimCabdQadirMazini.JarimatLordSaville.Hindawi37175297
+#META# Tags: literature
+#META# ID: 37175297
+#META# Title: جريمة اللورد سافيل
+#META# AuthorID: 47419369
+#META# Author: أوسكار وايلد
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 42571753
+#META# Translator: إبراهيم عبد القادر المازني
+#META# Related_books: 1318OscarWilde.LordSavillesCrime (TRANSL)
 
 #META#Header#End#
 

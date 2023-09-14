@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1370KhalilShaybub.FajrAwwal.Hindawi39182749",
-    "BookCats": "poetry",
-    "BookID": "39182749",
-    "BookTitle": "الفجر الأول",
-    "AuthorID": "96418194",
-    "AuthorNam": "خليل شيبوب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1370KhalilShaybub.FajrAwwal.Hindawi39182749
+#META# Tags: poetry
+#META# ID: 39182749
+#META# Title: الفجر الأول
+#META# AuthorID: 96418194
+#META# Author: خليل شيبوب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

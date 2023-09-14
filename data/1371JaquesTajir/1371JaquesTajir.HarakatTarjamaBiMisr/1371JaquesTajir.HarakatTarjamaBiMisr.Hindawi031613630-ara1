@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371JaquesTajir.HarakatTarjamaBiMisr.Hindawi31613630",
-    "BookCats": "history",
-    "BookID": "31613630",
-    "BookTitle": "حركة الترجمة بمصر خلال القرن التاسع عشر",
-    "AuthorID": "60831829",
-    "AuthorNam": "جاك تاجر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371JaquesTajir.HarakatTarjamaBiMisr.Hindawi31613630
+#META# Tags: history
+#META# ID: 31613630
+#META# Title: حركة الترجمة بمصر خلال القرن التاسع عشر
+#META# AuthorID: 60831829
+#META# Author: جاك تاجر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1364ImamShaficiAbuShanab.BunatIslam.Hindawi84858130",
-    "BookCats": "history",
-    "BookID": "84858130",
-    "BookTitle": "بُناة الإسلام: محمد وخلفاؤه",
-    "AuthorID": "62527939",
-    "AuthorNam": "إمام شافعي أبو شنب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1364ImamShaficiAbuShanab.BunatIslam.Hindawi84858130
+#META# Tags: history
+#META# ID: 84858130
+#META# Title: بُناة الإسلام: محمد وخلفاؤه
+#META# AuthorID: 62527939
+#META# Author: إمام شافعي أبو شنب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

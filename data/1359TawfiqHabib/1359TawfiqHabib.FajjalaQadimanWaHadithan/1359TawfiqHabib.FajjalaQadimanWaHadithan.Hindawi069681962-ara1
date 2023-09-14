@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1359TawfiqHabib.FajjalaQadimanWaHadithan.Hindawi69681962",
-    "BookCats": "history",
-    "BookID": "69681962",
-    "BookTitle": "الفجالة قديمًا وحديثًا",
-    "AuthorID": "17409427",
-    "AuthorNam": "توفيق حبيب",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1359TawfiqHabib.FajjalaQadimanWaHadithan.Hindawi69681962
+#META# Tags: history
+#META# ID: 69681962
+#META# Title: الفجالة قديمًا وحديثًا
+#META# AuthorID: 17409427
+#META# Author: توفيق حبيب
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

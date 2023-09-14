@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1365AhmadCisa.TarikhNabatCindaCarab.Hindawi19507951",
-    "BookCats": "science :: history",
-    "BookID": "19507951",
-    "BookTitle": "تاريخ النبات عند العرب",
-    "AuthorID": "57468285",
-    "AuthorNam": "أحمد عيسى",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1365AhmadCisa.TarikhNabatCindaCarab.Hindawi19507951
+#META# Tags: science :: history
+#META# ID: 19507951
+#META# Title: تاريخ النبات عند العرب
+#META# AuthorID: 57468285
+#META# Author: أحمد عيسى
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

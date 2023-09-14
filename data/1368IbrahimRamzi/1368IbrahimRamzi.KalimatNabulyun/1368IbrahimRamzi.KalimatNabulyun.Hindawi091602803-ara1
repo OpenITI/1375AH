@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1368IbrahimRamzi.KalimatNabulyun.Hindawi91602803",
-    "BookCats": "history",
-    "BookID": "91602803",
-    "BookTitle": "كلِمات نابُليون",
-    "AuthorID": "27535259",
-    "AuthorNam": "إبراهيم رمزي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1368IbrahimRamzi.KalimatNabulyun.Hindawi91602803
+#META# Tags: history
+#META# ID: 91602803
+#META# Title: كلِمات نابُليون
+#META# AuthorID: 27535259
+#META# Author: إبراهيم رمزي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

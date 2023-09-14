@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1366IliyasAbuShabaka.MaridWahm.Hindawi24040406",
-    "BookCats": "plays",
-    "BookID": "24040406",
-    "BookTitle": "مريض الوهم",
-    "AuthorID": "38572642",
-    "AuthorNam": "موليير",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "95147246",
-    "TranslNam": "إلياس أبو شبكة",
-    "BookRel": "1083Moliere.MaladeImaginaire (TRANSL)"
-}
-
+#META# URI: 1366IliyasAbuShabaka.MaridWahm.Hindawi24040406
+#META# Tags: plays
+#META# ID: 24040406
+#META# Title: مريض الوهم
+#META# AuthorID: 38572642
+#META# Author: موليير
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 95147246
+#META# Translator: إلياس أبو شبكة
+#META# Related_books: 1083Moliere.MaladeImaginaire (TRANSL)
 
 #META#Header#End#
 

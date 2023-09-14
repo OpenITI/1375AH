@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1373MuhammadLutfiJumca.MaidatAflatun.Hindawi95280646",
-    "BookCats": "philosophy",
-    "BookID": "95280646",
-    "BookTitle": "مائدة أفلاطون: كلام في الحب",
-    "AuthorID": "72703631",
-    "AuthorNam": "محمد لطفي جمعة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1373MuhammadLutfiJumca.MaidatAflatun.Hindawi95280646
+#META# Tags: philosophy
+#META# ID: 95280646
+#META# Title: مائدة أفلاطون: كلام في الحب
+#META# AuthorID: 72703631
+#META# Author: محمد لطفي جمعة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

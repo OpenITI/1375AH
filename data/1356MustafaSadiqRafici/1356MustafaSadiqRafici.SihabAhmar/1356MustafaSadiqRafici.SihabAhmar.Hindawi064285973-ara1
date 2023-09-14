@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1355MustafaSadiqRafici.SihabAhmar.Hindawi64285973",
-    "BookCats": "literature",
-    "BookID": "64285973",
-    "BookTitle": "السحاب الأحمر",
-    "AuthorID": "53130362",
-    "AuthorNam": "مصطفى صادق الرافعي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1355MustafaSadiqRafici.SihabAhmar.Hindawi64285973
+#META# Tags: literature
+#META# ID: 64285973
+#META# Title: السحاب الأحمر
+#META# AuthorID: 53130362
+#META# Author: مصطفى صادق الرافعي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1351SalatinBasha.SayfWaNar.Hindawi53158280",
-    "BookCats": "history",
-    "BookID": "53158280",
-    "BookTitle": "السيف والنار في السودان",
-    "AuthorID": "79027274",
-    "AuthorNam": "سلاطين باشا",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1351SalatinBasha.SayfWaNar.Hindawi53158280
+#META# Tags: history
+#META# ID: 53158280
+#META# Title: السيف والنار في السودان
+#META# AuthorID: 79027274
+#META# Author: سلاطين باشا
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

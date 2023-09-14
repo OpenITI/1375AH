@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1367HudaShacrawi.SalamCalami.Hindawi60614939",
-    "BookCats": "history",
-    "BookID": "60614939",
-    "BookTitle": "السلام العالمي ونصيب المرأة في تحقيقه",
-    "AuthorID": "84606415",
-    "AuthorNam": "هدى شعراوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1367HudaShacrawi.SalamCalami.Hindawi60614939
+#META# Tags: history
+#META# ID: 60614939
+#META# Title: السلام العالمي ونصيب المرأة في تحقيقه
+#META# AuthorID: 84606415
+#META# Author: هدى شعراوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

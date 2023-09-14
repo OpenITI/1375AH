@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1375RafaelBatti.SahafaFiCiraq.Hindawi15847036",
-    "BookCats": "history",
-    "BookID": "15847036",
-    "BookTitle": "الصحافة في العراق",
-    "AuthorID": "61709138",
-    "AuthorNam": "رفائيل بطي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1375RafaelBatti.SahafaFiCiraq.Hindawi15847036
+#META# Tags: history
+#META# ID: 15847036
+#META# Title: الصحافة في العراق
+#META# AuthorID: 61709138
+#META# Author: رفائيل بطي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

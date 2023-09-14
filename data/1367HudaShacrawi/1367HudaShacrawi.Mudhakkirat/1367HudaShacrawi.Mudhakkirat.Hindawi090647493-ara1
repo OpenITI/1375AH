@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1367HudaShacrawi.Mudhakkirat.Hindawi90647493",
-    "BookCats": "biographies",
-    "BookID": "90647493",
-    "BookTitle": "مذكرات هدى شعراوي",
-    "AuthorID": "84606415",
-    "AuthorNam": "هدى شعراوي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1367HudaShacrawi.Mudhakkirat.Hindawi90647493
+#META# Tags: biographies
+#META# ID: 90647493
+#META# Title: مذكرات هدى شعراوي
+#META# AuthorID: 84606415
+#META# Author: هدى شعراوي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

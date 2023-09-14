@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1371JaquesTajir.AqbatWaMuslimun.Hindawi25095731",
-    "BookCats": "history",
-    "BookID": "25095731",
-    "BookTitle": "أقباط ومسلمون: منذ الفتح العربي إلى عام ١٩٢٢م",
-    "AuthorID": "60831829",
-    "AuthorNam": "جاك تاجر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1371JaquesTajir.AqbatWaMuslimun.Hindawi25095731
+#META# Tags: history
+#META# ID: 25095731
+#META# Title: أقباط ومسلمون: منذ الفتح العربي إلى عام ١٩٢٢م
+#META# AuthorID: 60831829
+#META# Author: جاك تاجر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

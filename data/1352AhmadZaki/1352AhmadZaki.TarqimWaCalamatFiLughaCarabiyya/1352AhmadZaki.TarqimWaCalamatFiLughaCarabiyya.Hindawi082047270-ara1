@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1352AhmadZaki.TarqimWaCalamatFiLughaCarabiyya.Hindawi82047270",
-    "BookCats": "linguistics",
-    "BookID": "82047270",
-    "BookTitle": "الترقيم وعلاماته في اللغة العربية",
-    "AuthorID": "14937183",
-    "AuthorNam": "أحمد زكي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1352AhmadZaki.TarqimWaCalamatFiLughaCarabiyya.Hindawi82047270
+#META# Tags: linguistics
+#META# ID: 82047270
+#META# Title: الترقيم وعلاماته في اللغة العربية
+#META# AuthorID: 14937183
+#META# Author: أحمد زكي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

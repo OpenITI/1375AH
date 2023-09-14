@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1353AscadKhalilDaghir.TarikhWilliamZafir.Hindawi91582486",
-    "BookCats": "history",
-    "BookID": "91582486",
-    "BookTitle": "تاريخ وليم الظافر",
-    "AuthorID": "52083092",
-    "AuthorNam": "أسعد خليل داغر",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1353AscadKhalilDaghir.TarikhWilliamZafir.Hindawi91582486
+#META# Tags: history
+#META# ID: 91582486
+#META# Title: تاريخ وليم الظافر
+#META# AuthorID: 52083092
+#META# Author: أسعد خليل داغر
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
